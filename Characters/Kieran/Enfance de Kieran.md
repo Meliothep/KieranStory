@@ -1,8 +1,11 @@
-#Kieran 
+---
+tags:
+  - Kieran
+---
 
 ### Enfance :
 
-Kieran n’a jamais eu une enfance que l’on pouvait qualifier de normale. Fils unique d’un homme consacrant sa vie a la recherche, il a grandi dans une maison remplie d'outils et machines innovantes et de fragments de runes gravés dans la pierre ou des objets. Loin d'en souffrir il se montrait intéressé et curieux que ce soit envers le monde ou ses mystère auquel son père éprouvait un grand plaisir a l'initier. 
+[[Kieran]] n’a jamais eu une enfance que l’on pouvait qualifier de normale. Fils unique d’un homme consacrant sa vie a la recherche ([[Père de Kieran]]), il a grandi dans une maison remplie d'outils et machines innovantes et de fragments de runes gravés dans la pierre ou des objets. Loin d'en souffrir il se montrait intéressé et curieux que ce soit envers le monde ou ses mystère auquel son père éprouvait un grand plaisir a l'initier. 
 
 Son père, un érudit marginalisé par la société, n’avait qu’une seule passion : découvrir les secrets du monde, son fonctionnement et pour cela il était persuadé que la compréhension des runes était la clef. Lui qui n'avait jamais été compris alors que par son épouse disparue voyais en son fils un héritier et une sources de motivation sans fin. 
 
@@ -18,7 +21,9 @@ Le rituel fut brutal. Les outils de gravure laissant des cicatrices éclatantes 
 
 Lorsqu’il se réveilla dans son lit, son père était présent a ses coté, le jeune garçons fut soulagé espérant que tout cela n'etait un cauchemar, mais la douleurs omniprésentes parcourant l'ensemble de son corp le rappela a la réalité. Son père lui était soulagé, cela faisait déjà plusieurs jours que son fils était alité, il sera son fils dans ses bras, mais celui-ci restait de marbre.   
 
-La première activation des runes arriva par accident, un an plus tard. Kieran explorait l’atelier lorsque l’une des machines s’emballa, menaçant d’exploser. Paniqué, il tendit la main, et les runes s’illuminèrent violemment. Une vague d’énergie pure s’échappa de son corps, contenait l’explosion, mais le laissa à genoux, haletant, ses muscles tremblant sous l’effort. Cette expérience le terrifia autant qu’elle le fascina. Il comprit alors que les runes étaient à la fois un don et une malédiction—un pouvoir qu’il ne contrôlait pas et qui risquait de le consommer.
+### Découverte :
+
+La première activation des runes arriva par accident, un an plus tard. Kieran explorait l’atelier lorsque l’une des machines s’emballa, menaçant d’exploser. Paniqué, il tendit la main, et les runes s’illuminèrent violemment. Une vague d’énergie pure s’échappa de son corps, contenait l’explosion, mais le laissa à genoux, haletant, ses muscles tremblant sous l’effort. Cette expérience le terrifia autant qu’elle le fascina. Il comprit alors que les runes étaient à la fois un don et une malédiction un pouvoir qu’il ne contrôlait pas et qui risquait de le consommer.
 
 Mais pour son père, cet événement fut une victoire. L’homme commença à exiger davantage de son fils, testant les limites de ses capacités. Kieran, cependant, ne partageait pas cet enthousiasme. Pour lui, chaque activation était une agonie physique et mentale, une pièce de son âme qu’il sentait disparaître. Et plus que tout, il ressentait une colère sourde envers cet homme qui le traitait comme un objet d’expérimentation.
 
