@@ -1,0 +1,29 @@
+#Kieran 
+
+### Enfance :
+
+Kieran n’a jamais eu une enfance que l’on pouvait qualifier de normale. Fils unique d’un homme consacrant sa vie a la recherche, il a grandi dans une maison remplie d'outils et machines innovantes et de fragments de runes gravés dans la pierre ou des objets. Loin d'en souffrir il se montrait intéressé et curieux que ce soit envers le monde ou ses mystère auquel son père éprouvait un grand plaisir a l'initier. 
+
+Son père, un érudit marginalisé par la société, n’avait qu’une seule passion : découvrir les secrets du monde, son fonctionnement et pour cela il était persuadé que la compréhension des runes était la clef. Lui qui n'avait jamais été compris alors que par son épouse disparue voyais en son fils un héritier et une sources de motivation sans fin. 
+
+Dès son plus jeune âge, Kieran avait été initié à cet univers. Les runes, ces symboles énigmatiques capables de canaliser la magie pure, étaient omniprésentes dans leur maison. Il se souvenait des longues nuits passées à regarder son père graver des schémas complexes dans des block de cuivre. Pour Kieran, ces moments sont les plus vieux souvenir qu'il a de son père, des qu'il eu l'âge c'est avec plaisir que prenant son père comme idol il essayait de l'aider, le questionnant et parfois meme essayais de lui meme menée a bien des petit projet. Toutes les inventions ainsi produites, qu'elle soit plus ou moins réussite se retrouvais éparpillé dans la maison chacune ayant son usage que ce soit une bouillote runique, ou outil permettant de faire séché le linge, toutes ces creations venait de son père, persuader qu'un jours ces travaux seront découvert et révolutionnerons le quotidien.
+### Rupture :
+
+Quelque semaine après une attaque ayant fait des ravage dans leur village, tout changea. Kieran avait à peine 9 ans lorsque son père prit une décision qui allait marquer sa vie à jamais. L’homme, s'etait convaincu que pour le bien de son fils, pour le préservé des dangers du monde, il se devait d'agir.
+
+La scène encore gravée dans la mémoire de Kieran avec une précision douloureuse : 
+L’atelier plongé dans une semi-pénombre, les machines vibrantes, le froid du métal contre sa peau nue. Son père avec tout préparé a l'avance avant de venir cherché Kieran dans sa chambre, lui demandant de l'aide affirmant que celui ci était le seul capable de l'aidé pour cette experience. Mais l’enfant n’avait pas compris les implications de ces mots, ni la douleur qui allait suivre.
+
+Le rituel fut brutal. Les outils de gravure laissant des cicatrices éclatantes sur sa peau. Kieran se souvenait du hurlement qu’il avait été incapable de retenir, de la douleur qui parcourait son corp au mesure que son père le marquait. Mais ce n'etait pas fini, et Kieran le savais, il avait suffisamment de fois assisté au travaux de son père pour savoir que cela n'etait qu'une étape, il fallait maintenant infusé les runes de magie pour que celles ci s'active. Comment oublier cette chaleur, ardente et vorace, qui semblait vouloir le dévorer de l'intérieur, le fracas des machines noyé par des cris de douleur, tandis qu'une lumière vive jaillissait de ses plaies. Lorsque tout fut terminé, il s’évanouit, son corps brisé par l’effort.
+
+Lorsqu’il se réveilla dans son lit, son père était présent a ses coté, le jeune garçons fut soulagé espérant que tout cela n'etait un cauchemar, mais la douleurs omniprésentes parcourant l'ensemble de son corp le rappela a la réalité. Son père lui était soulagé, cela faisait déjà plusieurs jours que son fils était alité, il sera son fils dans ses bras, mais celui-ci restait de marbre.   
+
+La première activation des runes arriva par accident, un an plus tard. Kieran explorait l’atelier lorsque l’une des machines s’emballa, menaçant d’exploser. Paniqué, il tendit la main, et les runes s’illuminèrent violemment. Une vague d’énergie pure s’échappa de son corps, contenait l’explosion, mais le laissa à genoux, haletant, ses muscles tremblant sous l’effort. Cette expérience le terrifia autant qu’elle le fascina. Il comprit alors que les runes étaient à la fois un don et une malédiction—un pouvoir qu’il ne contrôlait pas et qui risquait de le consommer.
+
+Mais pour son père, cet événement fut une victoire. L’homme commença à exiger davantage de son fils, testant les limites de ses capacités. Kieran, cependant, ne partageait pas cet enthousiasme. Pour lui, chaque activation était une agonie physique et mentale, une pièce de son âme qu’il sentait disparaître. Et plus que tout, il ressentait une colère sourde envers cet homme qui le traitait comme un objet d’expérimentation.
+
+À l’âge de quatorze ans, Kieran ne pouvait plus supporter cette vie. Une nuit, il empaqueta quelques affaires et quitta la maison sans se retourner. La douleur et la peur étaient ses seules compagnes tandis qu’il s’enfonçait dans les rues de la capitale. Dès lors, il dut apprendre à survivre par ses propres moyens, à naviguer dans un monde où il n’était qu’un autre visage parmi la foule. Mais les runes, elles, restaient.
+
+Dans les bas-fonds de la ville, elles devinrent à la fois son salut et son fardeau. Il les utilisait avec parcimonie, uniquement lorsqu’il n’avait pas d’autre choix. Chaque fois qu’il activait leur pouvoir, il ressentait la même épuisement, la même brûlure dans ses veines. Pourtant, il ne pouvait pas nier leur utilité. Elles étaient un atout dans un monde hostile, un secret qu’il préservait jalousement.
+
+Aujourd’hui, Kieran vit avec ces cicatrices—physiques et émotionnelles. Les runes brillent encore sur sa peau, témoignant d’un passé qu’il ne peut échapper. Son regard cynique et sa réserve naturelle sont les résultats d’années de solitude et de trahisons. Mais au fond de lui, une question le hante : les runes sont-elles vraiment une malédiction, ou bien un chemin vers une vérité qu’il n’a pas encore osé explorer ?

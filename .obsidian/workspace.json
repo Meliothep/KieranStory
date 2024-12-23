@@ -12,22 +12,9 @@
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "66c1e7f5d95ffb61",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              }
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           },
           {
@@ -36,10 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kieran.md",
+                "file": "Characters/Kieran/Kieran.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Kieran"
             }
           },
           {
@@ -48,14 +37,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kieran.md",
+                "file": "Characters/Kieran/Kieran.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Kieran"
+            }
+          },
+          {
+            "id": "8997817eec346d98",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Tadhren/Tadhren.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tadhren"
+            }
+          },
+          {
+            "id": "8807a7ad16d4666e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Tadhren/Tadhren.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tadhren"
+            }
+          },
+          {
+            "id": "fc8fbbab5a642faf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Kieran/Histoire et motivations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Histoire et motivations"
+            }
+          },
+          {
+            "id": "4f06c35165852691",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Kieran/Histoire et motivations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Histoire et motivations"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -75,7 +122,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -84,13 +133,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Tadhren",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -98,14 +149,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 232.5
   },
   "right": {
     "id": "83345ff0f4d67c8f",
@@ -121,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kieran.md",
+                "file": "Characters/Kieran/Histoire et motivations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +182,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Histoire et motivations"
             }
           },
           {
@@ -138,10 +193,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kieran.md",
+                "file": "Characters/Kieran/Histoire et motivations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Histoire et motivations"
             }
           },
           {
@@ -152,7 +209,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -161,16 +220,28 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kieran.md"
-              }
+                "file": "Characters/Kieran/Histoire et motivations.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Histoire et motivations"
+            }
+          },
+          {
+            "id": "6060fd09dcab9b30",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 263.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -179,14 +250,32 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "publish:Publish changes...": false
     }
   },
-  "active": "df423e1c01ca703a",
+  "active": "4f06c35165852691",
   "lastOpenFiles": [
-    "Tadhren.md",
-    "Kieran.md",
     "Untitled.canvas",
+    "Characters/Kieran/Histoire et motivations.md",
+    "Characters/Kieran/Kieran.md",
+    "Characters/Tadhren/Tadhren.md",
+    "Characters/Tadhren/Relations.md",
+    "Characters/Tadhren/Histoire et motivations.md",
+    "Characters/Kieran/Relations.md",
+    "Characters/Kieran/Visuals/v1/top.png",
+    "Characters/Kieran/Visuals/v1",
+    "Characters/Kieran/Visuals/v1/full.png",
+    "Characters/Kieran/Visuals/image-4.png",
+    "Characters/Kieran/Visuals/image-5.png",
+    "Characters/Tadhren/Visuals",
+    "Characters/Kieran/Visuals",
+    "Untitled 1.canvas",
+    "2024-12-23.md",
+    "Characters/Tadhren",
+    "Characters/Kieran",
+    "Characters",
     "2024-12-22.md"
   ]
 }
