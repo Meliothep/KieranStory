@@ -105,10 +105,14 @@
             "id": "a3a2e60f6b91ae21",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Kieran/Stories/Enfance de Kieran.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Enfance de Kieran"
             }
           }
         ],
@@ -266,13 +270,15 @@
   },
   "active": "a3a2e60f6b91ae21",
   "lastOpenFiles": [
-    "Characters/Kieran/Enfance de Kieran.md",
+    "Characters/Tadhren/Stories/Passé de Tadhren.md",
+    "Characters/Pere de Kieran/Père de Kieran.md",
+    "Characters/Tadhren/Stories",
+    "Characters/Kieran/Kieran.md",
+    "Characters/Kieran/Stories/Enfance de Kieran.md",
+    "Characters/Kieran/Stories",
     "Kieran]], [[Père de Kieran.md",
     "Characters/Relations.canvas",
     "Characters/Tadhren/Tadhren.md",
-    "Characters/Tadhren/Passé de Tadhren.md",
-    "Characters/Kieran/Kieran.md",
-    "Characters/Pere de Kieran/Père de Kieran.md",
     "Characters/Tadhren/Relations.md",
     "Characters/Kieran/Relations.md",
     "Characters/Les Jumeaux",
@@ -284,8 +290,6 @@
     "node_modules/uuid/lib/v35.js",
     "node_modules/uuid/lib/sha1.js",
     "node_modules/uuid/lib/sha1-browser.js",
-    "node_modules/uuid/lib/rng.js",
-    "node_modules/uuid/lib/md5-browser.js",
     "node_modules/psl/browserstack-logo.svg",
     "node_modules/psl/SECURITY.md",
     "node_modules/psl/README.md",
