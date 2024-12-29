@@ -1,6 +1,7 @@
 ---
 tags:
   - Kieran
+  - "#stories"
 links:
   - "[[Kieran]]"
   - "[[Père de Kieran]]"
@@ -12,7 +13,7 @@ Kieran n’a jamais eu une enfance que l’on pouvait qualifier de normale. Fils
 
 Son père, un érudit marginalisé par la société, n’avait qu’une seule passion : découvrir les secrets du monde, son fonctionnement et pour cela il était persuadé que la compréhension des runes était la clef. Lui qui n'avait jamais été compris alors que par son épouse disparue voyais en son fils un héritier et une sources de motivation sans fin. 
 
-Dès son plus jeune âge, Kieran avait été initié à cet univers. Les runes, ces symboles énigmatiques capables de canaliser la magie pure, étaient omniprésentes dans leur maison. Il se souvenait des longues nuits passées à regarder son père graver des schémas complexes dans des block de cuivre. Pour Kieran, ces moments sont les plus vieux souvenir qu'il a de son père, des qu'il eu l'âge c'est avec plaisir que prenant son père comme idol il essayait de l'aider, le questionnant et parfois meme essayais de lui meme menée a bien des petit projet. Toutes les inventions ainsi produites, qu'elle soit plus ou moins réussite se retrouvais éparpillé dans la maison chacune ayant son usage que ce soit une bouillote runique, ou outil permettant de faire séché le linge, toutes ces creations venait de son père, persuader qu'un jours ces travaux seront découvert et révolutionnerons le quotidien.
+Dès son plus jeune âge, Kieran avait été initié à cet univers. Les runes, ces symboles énigmatiques capables de canaliser la magie pure, étaient omniprésentes dans leur maison. Il se souvenait des longues nuits passées à regarder son père graver des schémas complexes dans des block de cuivre. Pour Kieran, ces moments sont les plus vieux souvenir qu'il a de son père, des qu'il eu l'âge c'est avec plaisir que prenant son père comme idol il essayait de l'aider, le questionnant et parfois même essayais de lui même menée a bien des petit projet. Toutes les inventions ainsi produites, qu'elle soit plus ou moins réussite se retrouvais éparpillé dans la maison chacune ayant son usage que ce soit une bouillote runique, ou outil permettant de faire séché le linge, toutes ces créations venait de son père, persuader qu'un jours ces travaux seront découvert et révolutionnerons le quotidien.
 ### Rupture :
 
 Quelque semaine après une attaque ayant fait des ravage dans leur village, tout changea. Kieran avait à peine 9 ans lorsque son père prit une décision qui allait marquer sa vie à jamais. L’homme, s'etait convaincu que pour le bien de son fils, pour le préservé des dangers du monde, il se devait d'agir.
@@ -48,7 +49,7 @@ Pour lui, l’expérience était concluante : les runes avaient fonctionné. Ell
 
 ### Fugue
 
-À l’âge de quatorze ans, Kieran ne pouvait plus supporter cette vie. Une nuit, il empaqueta quelques affaires et quitta la maison sans se retourner. La douleur et la peur étaient ses seules compagnes tandis qu’il s’enfonçait dans les rues de la capitale. Dès lors, il dut apprendre à survivre par ses propres moyens, à naviguer dans un monde où il n’était qu’un autre visage parmi la foule. Mais les runes, elles, restaient.
+À l’âge de 11 ans, Kieran ne pouvait plus supporter cette vie. Une nuit, il empaqueta quelques affaires et quitta la maison sans se retourner. La douleur et la peur étaient ses seules compagnes tandis qu’il s’enfonçait dans les rues de la capitale. Dès lors, il dut apprendre à survivre par ses propres moyens, à naviguer dans un monde où il n’était qu’un autre visage parmi la foule. Mais les runes, elles, restaient.
 
 Aujourd’hui, Kieran vit avec ces cicatrices—physiques et émotionnelles. Les runes encore sur sa peau, témoignant d’un passé qu’il ne peut échapper. Son regard cynique et sa réserve naturelle sont les résultats d’années de solitude et de trahisons. Mais au fond de lui, une question le hante : les runes sont-elles vraiment une malédiction, ou bien un chemin vers une vérité qu’il n’a pas encore osé explorer ?
 
