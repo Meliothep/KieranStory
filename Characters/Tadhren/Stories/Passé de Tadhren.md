@@ -2,7 +2,7 @@
 tags:
   - Tadhren
   - characterStories
-links:
+characters:
   - "[[Tadhren]]"
 ---
 

@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2008f1adffe23437",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
             "id": "5b70557dde64a838",
             "type": "leaf",
             "state": {
@@ -133,14 +123,17 @@
             "id": "fbfee8a93fc0ed53",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/types.json",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (types.json)"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -294,14 +287,15 @@
   },
   "active": "fbfee8a93fc0ed53",
   "lastOpenFiles": [
-    "2025-01-06.md",
-    "Characters/Tadhren/Stories/Passé de Tadhren.md",
-    "Characters/Pere de Kieran/Père de Kieran.md",
+    "Untitled.canvas",
     "Characters/Kieran/Stories/Enfance de Kieran.md",
-    "Univers/Altherra (temporaire).md",
-    "Stories/Rencontre à la taverne.md",
+    "Characters/Pere de Kieran/Père de Kieran.md",
+    "Characters/Tadhren/Stories/Passé de Tadhren.md",
     "Characters/Tadhren/Tadhren.md",
     "Characters/Relations.canvas",
+    "Univers/Altherra (temporaire).md",
+    "Stories/Rencontre à la taverne.md",
+    "2025-01-06.md",
     "conflict-files-obsidian-git.md",
     "Stories",
     "Univers",
@@ -327,7 +321,6 @@
     "node_modules/tweetnacl/PULL_REQUEST_TEMPLATE.md",
     "node_modules/ajv/lib/dotjs/README.md",
     "node_modules/fast-deep-equal/README.md",
-    "Untitled.canvas",
     "Characters/Kieran/Visuals/v1/top.png",
     "Characters/Kieran/Visuals/v1/full.png",
     "Characters/Kieran/Visuals/image-4.png",

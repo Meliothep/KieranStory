@@ -2,7 +2,7 @@
 tags:
   - Kieran
   - "#characterStories"
-links:
+characters:
   - "[[Kieran]]"
   - "[[Père de Kieran]]"
 ---
