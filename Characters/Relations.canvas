@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"fbb5e116dd4cc8aa","type":"file","file":"Characters/Kieran/Kieran.md","x":-3760,"y":-200,"width":305,"height":241},
-		{"id":"fd7032bacb5602ca","type":"file","file":"Characters/Tadhren/Tadhren.md","x":-3180,"y":-200,"width":307,"height":241},
-		{"id":"16c5e4c50adb9398","type":"file","file":"Characters/Pere de Kieran/Père de Kieran.md","x":-3760,"y":-680,"width":305,"height":241}
+		{"id":"fbb5e116dd4cc8aa","type":"file","file":"Characters/Kieran/Kieran.md","x":-3760,"y":-200,"width":305,"height":200},
+		{"id":"fd7032bacb5602ca","type":"file","file":"Characters/Tadhren/Tadhren.md","x":-3220,"y":-200,"width":307,"height":200},
+		{"id":"16c5e4c50adb9398","type":"file","file":"Characters/Pere de Kieran/Père de Kieran.md","x":-3760,"y":-660,"width":305,"height":200}
 	],
 	"edges":[
 		{"id":"efd807c65a43edd5","fromNode":"16c5e4c50adb9398","fromSide":"bottom","toNode":"fbb5e116dd4cc8aa","toSide":"top","label":"Père"},
