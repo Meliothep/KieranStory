@@ -1,8 +1,7 @@
 ---
 tags:
   - Tadhren
-
-  - "#stories"
+  - characterStories
 links:
   - "[[Tadhren]]"
 ---

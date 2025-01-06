@@ -1,8 +1,8 @@
 ---
 tags:
-  - Story
   - Kieran
   - Tadhren
+  - stories
 links:
   - "[[Kieran]]"
   - "[[Tadhren]]"
