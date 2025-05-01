@@ -123,17 +123,32 @@
             "id": "fbfee8a93fc0ed53",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/types.json",
-                "staged": false
+                "file": "Characters/Kieran/Kieran.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (types.json)"
+              "icon": "lucide-file",
+              "title": "Kieran"
+            }
+          },
+          {
+            "id": "f1d4f9bea5350314",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Characters/Azael/Azael.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Azael"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -277,30 +292,34 @@
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "graph:Open graph view": false
     }
   },
-  "active": "fbfee8a93fc0ed53",
+  "active": "f1d4f9bea5350314",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "Characters/Kieran/Stories/Enfance de Kieran.md",
+    "Characters/Milo/Milo.md",
+    "Characters/Azael/Azael.md",
+    "Characters/Kieran/Kieran.md",
+    "Univers/Altherra (temporaire).md",
     "Characters/Pere de Kieran/Père de Kieran.md",
+    "Characters/Azael",
+    "Characters/Milo",
+    "Characters/Relations.canvas",
+    "Untitled.canvas",
+    "Stories/Rencontre à la taverne.md",
+    "Characters/Kieran/Stories/Enfance de Kieran.md",
     "Characters/Tadhren/Stories/Passé de Tadhren.md",
     "Characters/Tadhren/Tadhren.md",
-    "Characters/Relations.canvas",
-    "Univers/Altherra (temporaire).md",
-    "Stories/Rencontre à la taverne.md",
     "2025-01-06.md",
     "conflict-files-obsidian-git.md",
     "Stories",
     "Univers",
     "Characters/Tadhren/Stories",
-    "Characters/Kieran/Kieran.md",
     "Characters/Kieran/Stories",
     "Kieran]], [[Père de Kieran.md",
     "Characters/Tadhren/Relations.md",
@@ -309,8 +328,6 @@
     "Characters/The girl",
     "Characters/Pere de Kieran",
     "node_modules/verror/lib/verror.js",
-    "node_modules/verror/lib",
-    "node_modules/uuid/lib/v35.js",
     "node_modules/psl/browserstack-logo.svg",
     "node_modules/psl/SECURITY.md",
     "node_modules/psl/README.md",
