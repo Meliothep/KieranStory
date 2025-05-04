@@ -1,42 +1,13 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "tag:#Character  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "tag:#stories  ",
-      "color": {
-        "a": 1,
-        "rgb": 5408992
-      }
-    },
-    {
-      "query": "tag:#places  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431394
-      }
-    },
-    {
-      "query": "tag:#characterStories  ",
-      "color": {
-        "a": 1,
-        "rgb": 14718802
-      }
-    }
-  ],
-  "collapse-display": true,
+  "colorGroups": [],
+  "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -46,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.212958898745514,
+  "scale": 1.2405853972976886,
   "close": true
 }

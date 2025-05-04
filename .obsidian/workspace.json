@@ -137,17 +137,10 @@
             "id": "f1d4f9bea5350314",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Characters/Relations.canvas",
-                "viewState": {
-                  "x": -3334.2679864434854,
-                  "y": -136.378531352924,
-                  "zoom": -0.7519595752656636
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Relations"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -207,7 +200,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 231.5
   },
   "right": {
     "id": "83345ff0f4d67c8f",
@@ -305,19 +298,22 @@
   },
   "active": "f1d4f9bea5350314",
   "lastOpenFiles": [
-    "Stories/Rencontre à la taverne.md",
-    "Characters/Pere de Kieran/Père de Kieran.md",
-    "Characters/Kieran/Kieran.md",
-    "Characters/Azael/Azael.md",
-    "Characters/Milo/Milo.md",
-    "Univers/Altherra (temporaire).md",
-    "Characters/Azael",
-    "Characters/Milo",
-    "Characters/Relations.canvas",
-    "Untitled.canvas",
+    "Characters/Les Jumeaux/Azael/Azael.md",
+    "Characters/Les Jumeaux",
     "Characters/Kieran/Stories/Enfance de Kieran.md",
-    "Characters/Tadhren/Stories/Passé de Tadhren.md",
+    "Characters/Kieran/Kieran.md",
+    "Characters/Kieran/Visuals/v1/top.png",
+    "Characters/Relations.canvas",
+    "Stories/Rencontre à la taverne.md",
+    "Univers/Altherra (temporaire).md",
+    "Untitled.canvas",
     "Characters/Tadhren/Tadhren.md",
+    "Characters/Kieran/Visuals/v1/full.png",
+    "Characters/Pere de Kieran/Père de Kieran.md",
+    "Characters/Les Jumeaux/Milo/Milo.md",
+    "Characters/Les Jumeaux/Azael",
+    "Characters/Les Jumeaux/Milo",
+    "Characters/Tadhren/Stories/Passé de Tadhren.md",
     "2025-01-06.md",
     "conflict-files-obsidian-git.md",
     "Stories",
@@ -330,7 +326,6 @@
     "Characters/Les Jumeaux",
     "Characters/The girl",
     "Characters/Pere de Kieran",
-    "node_modules/verror/lib/verror.js",
     "node_modules/psl/browserstack-logo.svg",
     "node_modules/psl/SECURITY.md",
     "node_modules/psl/README.md",
@@ -341,8 +336,6 @@
     "node_modules/tweetnacl/PULL_REQUEST_TEMPLATE.md",
     "node_modules/ajv/lib/dotjs/README.md",
     "node_modules/fast-deep-equal/README.md",
-    "Characters/Kieran/Visuals/v1/top.png",
-    "Characters/Kieran/Visuals/v1/full.png",
     "Characters/Kieran/Visuals/image-4.png",
     "Characters/Kieran/Visuals/image-5.png",
     "Untitled 1.canvas",

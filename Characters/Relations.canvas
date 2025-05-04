@@ -2,8 +2,8 @@
 	"nodes":[
 		{"id":"16c5e4c50adb9398","type":"file","file":"Characters/Pere de Kieran/Père de Kieran.md","x":-3760,"y":-660,"width":305,"height":200},
 		{"id":"fbb5e116dd4cc8aa","type":"file","file":"Characters/Kieran/Kieran.md","x":-3760,"y":-260,"width":305,"height":200},
-		{"id":"97b92ecf1546ddf7","x":-3760,"y":120,"width":305,"height":200,"type":"file","file":"Characters/Milo/Milo.md"},
-		{"id":"d328eb2f1155b484","x":-3220,"y":120,"width":305,"height":200,"type":"file","file":"Characters/Azael/Azael.md"},
+		{"id":"97b92ecf1546ddf7","x":-3760,"y":120,"width":305,"height":200,"type":"file","file":"Characters/Les Jumeaux/Milo/Milo.md"},
+		{"id":"d328eb2f1155b484","x":-3220,"y":120,"width":305,"height":200,"type":"file","file":"Characters/Les Jumeaux/Azael/Azael.md"},
 		{"id":"fd7032bacb5602ca","type":"file","file":"Characters/Tadhren/Tadhren.md","x":-3222,"y":-460,"width":307,"height":200}
 	],
 	"edges":[
