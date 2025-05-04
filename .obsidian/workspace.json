@@ -137,14 +137,17 @@
             "id": "f1d4f9bea5350314",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Characters/Azael/Azael.md",
-                "mode": "source",
-                "source": false
+                "file": "Characters/Relations.canvas",
+                "viewState": {
+                  "x": -3334.2679864434854,
+                  "y": -136.378531352924,
+                  "zoom": -0.7519595752656636
+                }
               },
-              "icon": "lucide-file",
-              "title": "Azael"
+              "icon": "lucide-layout-dashboard",
+              "title": "Relations"
             }
           }
         ],
@@ -302,16 +305,16 @@
   },
   "active": "f1d4f9bea5350314",
   "lastOpenFiles": [
-    "Characters/Milo/Milo.md",
-    "Characters/Azael/Azael.md",
-    "Characters/Kieran/Kieran.md",
-    "Univers/Altherra (temporaire).md",
+    "Stories/Rencontre à la taverne.md",
     "Characters/Pere de Kieran/Père de Kieran.md",
+    "Characters/Kieran/Kieran.md",
+    "Characters/Azael/Azael.md",
+    "Characters/Milo/Milo.md",
+    "Univers/Altherra (temporaire).md",
     "Characters/Azael",
     "Characters/Milo",
     "Characters/Relations.canvas",
     "Untitled.canvas",
-    "Stories/Rencontre à la taverne.md",
     "Characters/Kieran/Stories/Enfance de Kieran.md",
     "Characters/Tadhren/Stories/Passé de Tadhren.md",
     "Characters/Tadhren/Tadhren.md",
