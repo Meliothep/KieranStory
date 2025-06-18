@@ -6,6 +6,7 @@ characters:
   - "[[Kieran]]"
   - "[[Père de Kieran]]"
 ---
+
 ### Enfance :
 
 Kieran n’a jamais eu une enfance que l’on pouvait qualifier de normale. Fils unique d’un homme consacrant sa vie a la recherche, il a grandi dans une maison remplie d'outils et machines innovantes et de fragments de runes gravés dans la pierre ou des objets. Loin d'en souffrir il se montrait intéressé et curieux que ce soit envers le monde ou ses mystère auquel son père éprouvait un grand plaisir a l'initier. 

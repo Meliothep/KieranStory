@@ -1,12 +1,16 @@
 {
 	"nodes":[
-		{"id":"fbb5e116dd4cc8aa","type":"file","file":"Characters/Kieran/Kieran.md","x":-3760,"y":-200,"width":305,"height":200},
-		{"id":"fd7032bacb5602ca","type":"file","file":"Characters/Tadhren/Tadhren.md","x":-3220,"y":-200,"width":307,"height":200},
-		{"id":"16c5e4c50adb9398","type":"file","file":"Characters/Pere de Kieran/Père de Kieran.md","x":-3760,"y":-660,"width":305,"height":200}
+		{"id":"16c5e4c50adb9398","type":"file","file":"Characters/Pere de Kieran/Père de Kieran.md","x":-3760,"y":-660,"width":305,"height":200},
+		{"id":"fbb5e116dd4cc8aa","type":"file","file":"Characters/Kieran/Kieran.md","x":-3760,"y":-260,"width":305,"height":200},
+		{"id":"97b92ecf1546ddf7","type":"file","file":"Characters/Les Jumeaux/Milo/Milo.md","x":-3760,"y":120,"width":305,"height":200},
+		{"id":"d328eb2f1155b484","type":"file","file":"Characters/Les Jumeaux/Azael/Azael.md","x":-3220,"y":120,"width":305,"height":200},
+		{"id":"fd7032bacb5602ca","type":"file","file":"Characters/Tadhren/Tadhren.md","x":-3222,"y":-460,"width":307,"height":200}
 	],
 	"edges":[
 		{"id":"efd807c65a43edd5","fromNode":"16c5e4c50adb9398","fromSide":"bottom","toNode":"fbb5e116dd4cc8aa","toSide":"top","label":"Père"},
 		{"id":"a7a5b1bdd5580300","fromNode":"fd7032bacb5602ca","fromSide":"left","toNode":"fbb5e116dd4cc8aa","toSide":"right","label":"Traque\nMentor"},
-		{"id":"9332fec346c383fa","fromNode":"16c5e4c50adb9398","fromSide":"right","toNode":"fd7032bacb5602ca","toSide":"top","label":"Emploie"}
+		{"id":"d2632d9ec961c6c4","fromNode":"fbb5e116dd4cc8aa","fromSide":"bottom","toNode":"97b92ecf1546ddf7","toSide":"top","fromEnd":"arrow","label":"Lien fort \n"},
+		{"id":"8e76aef12a7c977a","fromNode":"97b92ecf1546ddf7","fromSide":"right","toNode":"d328eb2f1155b484","toSide":"left","fromEnd":"arrow","label":"Jumeaux"},
+		{"id":"7281a1602482a770","fromNode":"16c5e4c50adb9398","fromSide":"right","toNode":"fd7032bacb5602ca","toSide":"left","label":"Emploie"}
 	]
 }

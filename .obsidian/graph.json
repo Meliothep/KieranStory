@@ -1,6 +1,6 @@
 {
-  "collapse-filter": true,
-  "search": "",
+  "collapse-filter": false,
+  "search": "[\"tags\":",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -15,37 +15,37 @@
       }
     },
     {
-      "query": "tag:#stories  ",
-      "color": {
-        "a": 1,
-        "rgb": 5408992
-      }
-    },
-    {
       "query": "tag:#places  ",
       "color": {
         "a": 1,
-        "rgb": 5431394
+        "rgb": 1887817
+      }
+    },
+    {
+      "query": "tag:#stories  ",
+      "color": {
+        "a": 1,
+        "rgb": 1927650
       }
     },
     {
       "query": "tag:#characterStories  ",
       "color": {
         "a": 1,
-        "rgb": 14718802
+        "rgb": 8147680
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "textFadeMultiplier": -0.4,
+  "nodeSizeMultiplier": 1.00598958333333,
+  "lineSizeMultiplier": 2.10338541666667,
+  "collapse-forces": false,
+  "centerStrength": 0.299479166666667,
+  "repelStrength": 7.03125,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 1.212958898745514,
-  "close": true
+  "linkDistance": 271,
+  "scale": 1.050827201292068,
+  "close": false
 }
