@@ -8,20 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "67c6c64822e5acf3",
+            "id": "6ab83fb272cb137c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Characters/Relations.canvas",
-                "viewState": {
-                  "x": -3337.5,
-                  "y": -170,
-                  "zoom": -0.17629600674699394
-                }
+                "file": "Characters/Famille de Kieran/Stories/La Gravure des Runes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Relations"
+              "icon": "lucide-file",
+              "title": "La Gravure des Runes"
             }
           }
         ]
@@ -56,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:Magie",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -153,13 +150,23 @@
               "icon": "lucide-list",
               "title": "Outline of Relations"
             }
+          },
+          {
+            "id": "ea273f20e03f3630",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,12 +179,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "67c6c64822e5acf3",
+  "active": "61ca9e7e2710537b",
   "lastOpenFiles": [
-    "Characters/Relations.canvas",
+    "Characters/Famille de Kieran",
     "Stories/Rencontre à la taverne.md",
+    "Characters/Famille de Kieran/Mere de Kieran/Mere de Kieran.md",
+    "Characters/Famille de Kieran/Pere de Kieran/Père de Kieran.md",
+    "Characters/Tadhren/Stories/Passé de Tadhren.md",
+    "Characters/Relations.canvas",
+    "Univers/Codex/Magie/Codes de l'Aether.md",
+    "Univers/Codex/Magie/Codex de l'artisanat runique.md",
+    "Univers/Codex/Magie/Codex des Runes.md",
     "Univers/Places/Taverne.md",
     "Univers/Altherra (temporaire).md",
-    "Characters/Tadhren/Tadhren.md"
+    "Univers/Codex/Races/Aestarii/Codex des Aestarii.md",
+    "Univers/Codex/Races/Aestarii/Classification par emotion (deprecated).md",
+    "Univers/Codex/Races/Aestarii/Classification des lignées.md",
+    "Characters/Famille de Kieran/Stories/La Gravure des Runes.md",
+    "Characters/Les Jumeaux/Milo/Milo.md",
+    "Characters/Famille de Kieran/Kieran/Kieran.md",
+    "Characters/Les Jumeaux/Azael/Azael.md",
+    "Characters/Famille de Kieran/Stories/La Tragédie de la Mère de Kieran.md",
+    "Characters/Famille de Kieran/Mere de Kieran",
+    "Characters/Famille de Kieran/Stories/Enfance de Kieran.md",
+    "Univers/Codex",
+    "Univers/Elements/Untitled",
+    "Univers/Races/Aestarii/Untitled",
+    "Univers/Codex/Races/Aestarii",
+    "Stories/Dialogue.md",
+    "Characters/Tadhren/Tadhren.md",
+    "Univers/Codex/Magie",
+    "Univers/Codex/Races"
   ]
 }

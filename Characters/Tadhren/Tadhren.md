@@ -65,5 +65,5 @@ tags:
 ---
 #### **Design visuel :**
 
-- **Apparence :** Tadhren a l’allure d’un homme marqué par les années, mais encore robuste. Ses cheveux gris cendrés sont souvent attachés, et son regard perçant dégage une autorité naturelle. Une cicatrice ou un détail particulier (comme une vieille montre runique) pourrait symboliser son passé.
+- **Apparence :** Tadhren a l’allure d’un homme marqué par les années, mais encore robuste. Ses cheveux gris cendrés, et son regard perçant dégage une autorité naturelle. Une cicatrice ou un détail particulier (comme une vieille montre runique) pourrait symboliser son passé.
 - **Style :** Il porte des vêtements fonctionnels qu'il adapte a un costume et légèrement usés. 
