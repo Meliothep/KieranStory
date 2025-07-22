@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Famille de Kieran/Stories/La Gravure des Runes.md",
+                "file": "Feedbacks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "La Gravure des Runes"
+              "title": "Feedbacks"
             }
           }
         ]
@@ -179,23 +179,24 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "61ca9e7e2710537b",
+  "active": "6ab83fb272cb137c",
   "lastOpenFiles": [
-    "Characters/Famille de Kieran",
     "Stories/Rencontre à la taverne.md",
+    "Feedbacks.md",
+    "Univers/Codex/Magie/Codes de l'Aether.md",
+    "Univers/Codex/Magie/Codex de l'artisanat runique.md",
+    "Univers/Codex/Magie/Codex des Runes.md",
+    "Univers/Codex/Races/Aestarii/Classification des lignées.md",
+    "Univers/Codex/Races/Aestarii/Classification par emotion (deprecated).md",
+    "Univers/Codex/Races/Aestarii/Codex des Aestarii.md",
+    "Characters/Famille de Kieran/Stories/La Gravure des Runes.md",
+    "Characters/Famille de Kieran",
     "Characters/Famille de Kieran/Mere de Kieran/Mere de Kieran.md",
     "Characters/Famille de Kieran/Pere de Kieran/Père de Kieran.md",
     "Characters/Tadhren/Stories/Passé de Tadhren.md",
     "Characters/Relations.canvas",
-    "Univers/Codex/Magie/Codes de l'Aether.md",
-    "Univers/Codex/Magie/Codex de l'artisanat runique.md",
-    "Univers/Codex/Magie/Codex des Runes.md",
     "Univers/Places/Taverne.md",
     "Univers/Altherra (temporaire).md",
-    "Univers/Codex/Races/Aestarii/Codex des Aestarii.md",
-    "Univers/Codex/Races/Aestarii/Classification par emotion (deprecated).md",
-    "Univers/Codex/Races/Aestarii/Classification des lignées.md",
-    "Characters/Famille de Kieran/Stories/La Gravure des Runes.md",
     "Characters/Les Jumeaux/Milo/Milo.md",
     "Characters/Famille de Kieran/Kieran/Kieran.md",
     "Characters/Les Jumeaux/Azael/Azael.md",
