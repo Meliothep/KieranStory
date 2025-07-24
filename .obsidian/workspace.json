@@ -11,17 +11,28 @@
             "id": "6ab83fb272cb137c",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "1435e88141681a8b",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Feedbacks.md",
+                "file": "Stories/Rencontre à la taverne.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Feedbacks"
+              "title": "Rencontre à la taverne"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Magie",
+                "query": "Raen",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -179,36 +190,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ab83fb272cb137c",
+  "active": "1435e88141681a8b",
   "lastOpenFiles": [
+    "Stories/Kieran Milo et Rea.md",
     "Stories/Rencontre à la taverne.md",
-    "Feedbacks.md",
+    "Univers/Codex/Races/Aestarii/Codex des Aestarii.md",
+    "Univers/Places/Taverne.md",
+    "Univers/Altherra (temporaire).md",
+    "Characters/Les Jumeaux/Azael/Azael.md",
+    "Characters/Famille Ashvale/Kieran/Kieran.md",
+    "Characters/Rea/Rea.md",
+    "Characters/Tadhren/Tadhren.md",
+    "Characters/Rea",
+    "Characters/Famille Ashvale/Stories/La Tragédie de la Mère de Kieran.md",
+    "Characters/Famille Ashvale/Stories/La Gravure des Runes.md",
     "Univers/Codex/Magie/Codes de l'Aether.md",
+    "Untitled.canvas",
+    "Characters/Famille Ashvale/Stories/Enfance de Kieran.md",
+    "Characters/Famille Ashvale/Kieran/Visuals/v1/top.png",
+    "Characters/Famille Ashvale/Kieran/Visuals/v1/full.png",
+    "Feedbacks.md",
     "Univers/Codex/Magie/Codex de l'artisanat runique.md",
     "Univers/Codex/Magie/Codex des Runes.md",
     "Univers/Codex/Races/Aestarii/Classification des lignées.md",
     "Univers/Codex/Races/Aestarii/Classification par emotion (deprecated).md",
-    "Univers/Codex/Races/Aestarii/Codex des Aestarii.md",
-    "Characters/Famille de Kieran/Stories/La Gravure des Runes.md",
-    "Characters/Famille de Kieran",
-    "Characters/Famille de Kieran/Mere de Kieran/Mere de Kieran.md",
-    "Characters/Famille de Kieran/Pere de Kieran/Père de Kieran.md",
     "Characters/Tadhren/Stories/Passé de Tadhren.md",
     "Characters/Relations.canvas",
-    "Univers/Places/Taverne.md",
-    "Univers/Altherra (temporaire).md",
+    "Characters/Famille Ashvale",
+    "Characters/Famille Ashvale/Mere de Kieran/Mere de Kieran.md",
+    "Characters/Famille Ashvale/Pere de Kieran/Père de Kieran.md",
     "Characters/Les Jumeaux/Milo/Milo.md",
-    "Characters/Famille de Kieran/Kieran/Kieran.md",
-    "Characters/Les Jumeaux/Azael/Azael.md",
-    "Characters/Famille de Kieran/Stories/La Tragédie de la Mère de Kieran.md",
-    "Characters/Famille de Kieran/Mere de Kieran",
-    "Characters/Famille de Kieran/Stories/Enfance de Kieran.md",
+    "Characters/Famille Ashvale/Mere de Kieran",
     "Univers/Codex",
     "Univers/Elements/Untitled",
     "Univers/Races/Aestarii/Untitled",
     "Univers/Codex/Races/Aestarii",
     "Stories/Dialogue.md",
-    "Characters/Tadhren/Tadhren.md",
     "Univers/Codex/Magie",
     "Univers/Codex/Races"
   ]

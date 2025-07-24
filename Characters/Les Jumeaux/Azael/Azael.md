@@ -89,7 +89,7 @@ tags:
 
 Leur relation est une plaie ouverte. Azael en veut à Milo d’avoir rejeté leur nature commune. Il le provoque, tente de le faire chuter, mais cherche aussi à attirer son attention. Tout dans leur lien est excessif : rivalité, fascination, haine, besoin. Voir Milo refuser ce qu’Azael assume le renvoie à ses propres doutes.
 
-#### **Avec [[Kieran]] :**
+#### **Avec Kieran :**
 
 Azael considère Kieran comme une menace et une anomalie. Il déteste l’influence que celui-ci exerce sur Milo, mais il est aussi intrigué. Il tente souvent de le déstabiliser, sans grand succès. Cela le rend d’autant plus obsédé par Kieran.
 

@@ -6,8 +6,7 @@ tags:
 characters:
   - "[[Kieran]]"
   - "[[Tadhren]]"
-places:
-  - "[[Taverne]]"
+places: []
 ---
 La nuit avait depuis longtemps enveloppé le village d’un voile tiède, et seules les lueurs orangées des lampes à huile suspendues diffusaient une chaleur tranquille dans la taverne. L’endroit n’était pas bondé, mais bruissait de conversations basses, de tintements d’assiettes et de chopes qui s’entrechoquaient. L’ambiance était familière pour les habitués, mais un peu trop vivante pour quelqu’un comme lui.
 
@@ -127,7 +126,7 @@ Il arrêta de jouer avec la chope, et commença à s'occuper les mains avec l'un
 
 Tadhren laissa échapper un léger sourire, presque imperceptible, en entendant la réplique de Kieran. Il n’était pas du genre à se laisser déranger par l’attitude du jeune homme, bien au contraire. Cela faisait des années qu’il suivait les moindres gestes et paroles de ce gamin, et chaque interaction ressemblait à une danse bien rôdée entre eux. Mais il savait que le ton de Kieran, plus tranchant, cachait autre chose. Il se pencha un peu en avant, scrutant Kieran avec un regard d'une froide intensité. 
 
-> **Tadhren** : (d’un ton calme mais ferme) "T’as bien grandi, Kieran… Mais ça ne change rien. T’as beau jouer à l'indépendant, tu sais bien que t’es toujours sur sa liste." 
+> **Tadhren** : (d’un ton calme mais ferme) "T’as bien grandi Kieran… Mais ça ne change rien. T’as beau jouer à l'indépendant, tu sais bien qu’il ne t’a pas oublié."
 
 L'homme soupira un instant, ses yeux se posant sur les mains de Kieran qui manipulaient distraitement les sangles. Il remarqua la manière dont Kieran cherchait à cacher cette tension sous ses gestes, comme s’il pouvait contrôler cette vieille douleur. Mais il le connaissait trop bien. 
 
@@ -137,25 +136,29 @@ Il se redressa lentement, s'appuyant sur ses bras croisés sur le comptoir, gard
 
 > **Tadhren** : (avec un léger sourire énigmatique) "Je suis là pour te rappeler que t'as pas vraiment filé... mais si tu veux que ça dure, faudra peut-être apprendre à faire avec."
 
- Il laissa un silence pesant, comme une invitation à réagir, tout en observant Kieran avec un intérêt glacé et calculateur.
+Il laissa un silence pesant s'installer, une invitation à réagir, tout en observant Kieran avec un intérêt glacé et calculateur. La tension monta d'un cran, palpable dans l'air de la taverne. 
 
-Kieran resta un moment silencieux, son regard désormais posé sur la surface du comptoir. Le défi dans sa posture ne faiblit pas, mais une légère tension s’installa entre eux. L’ombre du passé se fit plus présente dans ses pensées, des souvenirs douloureux se mêlant à une certaine indifférence. L'homme en face de lui, ce mentor, incarnait une partie de son passé qu'il ne pouvait totalement ignorer, mais qu’il préférait ne pas confronter. Kieran serra doucement les sangles de ses bras, comme un geste inconscient pour se recentrer, un moyen d’échapper à l’intensité du moment. 
+Kieran resta un moment silencieux, son regard désormais posé sur la surface du comptoir. Le défi dans sa posture ne faiblit pas, mais une légère tension s’installa entre eux. L’ombre du passé se fit plus présente dans ses pensées, des souvenirs douloureux se mêlant à une certaine indifférence. L'homme en face de lui, ce mentor, incarnait une partie de son passé qu'il ne pouvait totalement ignorer, mais qu’il préférait ne pas confronter. Kieran serra doucement les sangles de ses bras, comme un geste inconscient pour se recentrer, tentant de masquer l'agitation qui montait en lui.
 
-Kieran finit par lever les yeux, son sourire narquois disparaissant lentement alors qu'il plongea un regard plus sombre dans celui de l'homme. 
+Kieran finit par lever les yeux, son sourire narquois disparaissant lentement alors qu'il plongea un regard plus sombre dans celui de l'homme.
 
 > **Kieran** : (d'un ton plus bas, presque froid) "Tu crois vraiment que je vais te suivre ? Que je vais aller dans ce putain de laboratoire ?" 
+
+Un raclement de gorge bruyant du tavernier, comme pour marquer sa présence et briser l'intensité, résonna à travers le comptoir.
+
+> **Tavernier** : "On sent la tension d'ici, les gars. Y'a de la place pour tout le monde, mais pas pour les prises de bec, hein."
 
 Il laissa un silence s’installer entre eux, le poids de ses paroles flottant dans l'air. Ses doigts continuèrent de manipuler les sangles, mais plus nerveusement cette fois. Il ne voulait pas revivre cette sensation de soumission, celle qu’il avait ressentie quand il était encore sous la coupe de son père. Pas après tout ce qu’il avait traversé. 
 
 > **Kieran** : (en jetant un coup d'œil à son mentor, toujours sur le qui-vive) "Alors vas-y, dis-lui ce que tu veux. Mais sache une chose. Peu importe combien de fois tu me retrouveras, je ne serai jamais celui qu’il espère."
 
-Il se redressa légèrement, prenant une gorgée de sa chope, tout en observant les mouvements du mentor avec une attention calme mais perçante. La confrontation était inévitable, mais Kieran voulait la contrôler. Il voulait décider quand et comment cette interaction prendrait fin, et non pas être pris dans un jeu de marionnettiste où il était l'instrument d'un autre. 
+Il se redressa légèrement, prenant une gorgée de sa chope, tout en observant les mouvements du mentor avec une attention calme mais perçante. Il voulait décider quand et comment cette interaction prendrait fin, et non pas être pris dans un jeu de marionnettiste où il était l'instrument d'un autre. 
 
 > **Kieran** : (avec un léger sourire amer) "Il a eu ce qu'il voulait, et je suis pas là pour lui faire plaisir. Pas plus que toi."
 
 Tadhren l’observa longuement, comme s’il attendait que Kieran dise quelque chose d’encore plus révélateur. Il aurait pu répliquer de manière plus directe, jouer sur les cordes sensibles de Kieran. Mais il savait qu’avec ce jeune homme, plus les choses étaient brutales, plus il se renfermait. Alors il choisit une autre approche, plus mesurée. 
 
-> **Tadhren** : (lentement, avec une voix grave et posée) "T’as pas le choix, Kieran. On finit toujours par revenir au point de départ. Et ton père... il a ses raisons, même si t’as du mal à le voir. Il est pas le seul à avoir de l’intérêt pour toi." 
+> **Tadhren** : (lentement, avec une voix grave et posée) "Il y a des chemins dont on ne s'éloigne jamais vraiment. On finit toujours par se retrouver là où l'on doit être." 
 
 Le regard de Tadhren se fit plus intense, plus perçant. Ce n’était plus juste un homme qui suivait les ordres. C’était quelqu’un qui avait observé, écouté, et qui savait des choses que Kieran n’était pas encore prêt à comprendre. 
 
@@ -163,9 +166,11 @@ Le regard de Tadhren se fit plus intense, plus perçant. Ce n’était plus just
 
 Il se pencha en avant, abaissant la voix pour que seuls eux deux l’entendent dans ce coin tranquille de la taverne. 
 
-> **Tadhren** : "Mais je suis là pour t’aider à comprendre, si tu veux. Pas pour te forcer à revenir. Mais je dois te dire que fuir n’est pas la solution, Kieran. Pas cette fois."
+> **Tadhren** : "Mon rôle est de te mettre face à la réalité, si tu es prêt à la voir. Pas de te forcer à revenir. Seulement, la fuite n’est pas toujours une option viable, gamin."
 
-Kieran serra les poings sans que l'homme ne le remarque, son regard s'intensifiant. Chaque mot de Tadhren semblait le toucher, mais il ne voulait pas l’admettre. Son aversion pour lui était plus forte que jamais. Pourtant, une part de lui, celle qu’il cachait, savait que cet homme avait raison. La fuite n’était qu’un sursis. Ce qu’il avait traversé, ce qu’il portait… il ne pourrait pas y échapper indéfiniment. 
+Kieran serra les poings, tentant de masquer sa réaction, mais son regard s'intensifia. Chaque mot de Tadhren semblait le toucher, mais il ne voulait pas l’admettre. Son aversion pour lui était plus forte que jamais. Pourtant, une part de lui, celle qu’il cachait, savait que cet homme avait raison. La fuite n’était qu’un sursis. Ce qu’il avait traversé, ce qu’il portait… il ne pourrait pas y échapper indéfiniment. 
+
+> **Tavernier** : (en posant un verre avec un bruit sec, un peu plus fort que nécessaire) "La vie est déjà assez compliquée sans en rajouter. Un peu de calme messieurs, ça ferait pas de mal."
 
 Il laissa échapper un soupir, son regard se perdant un instant dans les flammes des lampes à huile autour de la pièce. 
 
@@ -182,7 +187,7 @@ Au lieu de ça, il chercha à désamorcer la situation et à ramener un peu de n
 
 Il resta un instant silencieux, et puis son regard s'adoucit, moins dur, comme s’il acceptait de se montrer un peu plus humain, un peu moins autoritaire. 
 
-> **Tadhren** : "Sinon, à part ça, t'as déjà mangé ? Parce que je te cache pas que vu l'heure, moi je commence à avoir faim, et je parie que toi aussi. Ça fait pas de mal de manger un peu, avant de repartir en quête de vérité ou de fuite." (Il ajouta avec un clin d'œil) "À moins que t'aies pas envie de manger avec un vieux comme moi ?" 
+> **Tadhren** : "Sinon, à part ça, t'as déjà mangé ? Parce que je te cache pas que vu l'heure, moi je commence à avoir faim, et je parie que toi aussi. Ça fait pas de mal de manger un peu, avant de repartir en quête de vérité ou de fuite." (avec un sourire en coin) "À moins que t'aies pas envie de manger avec un vieux comme moi ?" 
 
 Le ton était plus détendu, un peu plus rassurant. Il voulait offrir à Kieran un moment de tranquillité, un petit répit avant que la réalité ne les rattrape. Il pouvait bien lui accorder ça, après tout. Tadhren savait qu’il n’allait pas forcer Kieran à revenir avec lui, du moins pas tout de suite. L’essentiel était d'éviter que la situation dégénère davantage, et de lui rappeler qu’il n’était pas seul, même s’il préférait se convaincre du contraire.
 
@@ -192,7 +197,7 @@ Le tavernier, de l'autre côté du comptoir, sembla avoir compris qu’il n’y 
 
  Il regarda Kieran, toujours aussi souriant. 
 
-> **Tavernier** : "Puis c'est le papi qui paie !" Et fit un clin d'œil.
+> **Tavernier** : "Puis c'est le papi qui paie !" Puis, il laissa échapper un rire franc en direction de Kieran.
 
 Kieran, qui jusque-là semblait prêt à craquer sous la pression, esquissa un sourire en coin à l'entente du commentaire du tavernier. L'atmosphère se détendit encore un peu. Le jeune homme garda un regard froid et quelque peu distant, mais l'idée d'un repas réconfortant sembla adoucir sa posture. 
 
@@ -210,7 +215,7 @@ Puis il commença à préparer les assiettes. Le bruit de la viande qui grésill
 
 Tadhren, lui, regarda Kieran d'un air un peu plus complice, comme s'il laissait son élève digérer le moment, tout en observant son comportement. 
 
-> **Tadhren** : (en se penchant légèrement vers Kieran) "T'as pas à t'excuser pour tes réactions, gamin. Le stress, ça te joue des tours. Mais dis-toi que c'est pas parce que tu m'acceptes un repas que ça fait de moi ton ennemi. C'est juste... un petit compromis. Et je te connais, t'as pas l'intention de t'attarder ici plus longtemps." (Il se redressa, un sourire en coin) "Mais même toi, tu sais bien qu'il faut savoir profiter des moments comme ça." 
+> **Tadhren** : (en se penchant légèrement vers Kieran) "T'as pas à t'excuser pour tes réactions, gamin. Le stress, ça te joue des tours. Accepter un repas, gamin, ça ne fait pas de nous des amis, mais ca a le merite de nous offrir un petit répit. Et je te connais, t'as pas l'intention de t'attarder ici plus longtemps." (Il se redressa, un sourire en coin) "Mais même toi, tu sais bien qu'il faut savoir profiter des moments comme ça." 
 
 Le tavernier revint avec les assiettes, les posant sur le comptoir avec un air satisfait de lui-même. 
 
@@ -241,7 +246,7 @@ Kieran prit une nouvelle bouchée, son regard se perdant un moment dans la pièc
 
 Un léger silence s'installa alors, avant que Tadhren ne reprenne un ton plus léger. 
 
-> **Tadhren** : "Mais assez de moralité pour ce soir. J'veux bien être un vieux sage, mais même les vieux sages ont besoin de leur repas. On reparlera de tout ça quand t'auras avalé ta viande et qu’on aura un peu plus de temps pour discuter." (Il leva sa chope avec un sourire malicieux.) "Allez, bois à ma santé. Et fais gaffe à ce que tu souhaites, gamin. Parce que parfois, les vœux qu'on fait, ils finissent par revenir nous hanter."
+> **Tadhren** : "Mais assez de moralité pour ce soir. J'veux bien être un vieux sage, mais même les vieux sages ont besoin de leur repas. On reparlera de tout ça quand t'auras avalé ta viande et qu’on aura un peu plus de temps pour discuter." (Il leva sa chope avec un sourire malicieux.) "Allez, bois à ma santé. Et fais gaffe à ce que tu souhaites, gamin. Parce que parfois, les vœux qu'on fait finissent par revenir nous hanter."
 
 Kieran hocha légèrement la tête, une lueur de quelque chose qu’il ne voulait pas identifier dans ses yeux. Il mangea, mais les paroles de son mentor continuaient de résonner dans sa tête. Il se rendit compte que ce n’était pas seulement de la nourriture qu’il avait manqué pendant ces quatre années... c’était aussi des mots comme ceux-là.
 
