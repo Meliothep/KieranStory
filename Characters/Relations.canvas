@@ -2,10 +2,11 @@
 	"nodes":[
 		{"id":"16c5e4c50adb9398","type":"file","file":"Characters/Famille Ashvale/Pere de Kieran/Père de Kieran.md","x":-3760,"y":-660,"width":305,"height":200},
 		{"id":"fbb5e116dd4cc8aa","type":"file","file":"Characters/Famille Ashvale/Kieran/Kieran.md","x":-3760,"y":-260,"width":305,"height":200},
-		{"id":"97b92ecf1546ddf7","type":"file","file":"Characters/Les Jumeaux/Milo/Milo.md","x":-3760,"y":120,"width":305,"height":200},
-		{"id":"d328eb2f1155b484","type":"file","file":"Characters/Les Jumeaux/Azael/Azael.md","x":-3220,"y":120,"width":305,"height":200},
 		{"id":"fd7032bacb5602ca","type":"file","file":"Characters/Tadhren/Tadhren.md","x":-3222,"y":-460,"width":307,"height":200},
-		{"id":"daf1c34e3f730a4d","type":"file","file":"Characters/Famille Ashvale/Mere de Kieran/Mere de Kieran.md","x":-4240,"y":-260,"width":305,"height":200}
+		{"id":"daf1c34e3f730a4d","type":"file","file":"Characters/Famille Ashvale/Mere de Kieran/Mere de Kieran.md","x":-4240,"y":-260,"width":305,"height":200},
+		{"id":"97b92ecf1546ddf7","type":"file","file":"Characters/Les Jumeaux/Milo/Milo.md","x":-3500,"y":120,"width":305,"height":200},
+		{"id":"d328eb2f1155b484","type":"file","file":"Characters/Les Jumeaux/Azael/Azael.md","x":-2980,"y":120,"width":305,"height":200},
+		{"id":"50f13727b1dec2d2","x":-4020,"y":120,"width":305,"height":200,"type":"file","file":"Characters/Rea/Rea.md"}
 	],
 	"edges":[
 		{"id":"efd807c65a43edd5","fromNode":"16c5e4c50adb9398","fromSide":"bottom","toNode":"fbb5e116dd4cc8aa","toSide":"top","label":"Père"},
@@ -14,6 +15,8 @@
 		{"id":"7281a1602482a770","fromNode":"16c5e4c50adb9398","fromSide":"right","toNode":"fd7032bacb5602ca","toSide":"left","label":"Emploie"},
 		{"id":"8cb9989535e0611f","fromNode":"daf1c34e3f730a4d","fromSide":"right","toNode":"fbb5e116dd4cc8aa","toSide":"left","label":"Mère"},
 		{"id":"800c19537b9da250","fromNode":"16c5e4c50adb9398","fromSide":"left","toNode":"daf1c34e3f730a4d","toSide":"top","fromEnd":"arrow","label":"Epoux"},
-		{"id":"d8086becc835d9fc","fromNode":"97b92ecf1546ddf7","fromSide":"top","toNode":"fbb5e116dd4cc8aa","toSide":"bottom","label":"Curiosité"}
+		{"id":"d8086becc835d9fc","fromNode":"97b92ecf1546ddf7","fromSide":"top","toNode":"fbb5e116dd4cc8aa","toSide":"bottom","label":"Curiosité"},
+		{"id":"1ed4fefe720f413f","fromNode":"50f13727b1dec2d2","fromSide":"top","toNode":"fbb5e116dd4cc8aa","toSide":"bottom"},
+		{"id":"fe80bc5d375b7e09","fromNode":"50f13727b1dec2d2","fromSide":"right","toNode":"97b92ecf1546ddf7","toSide":"left"}
 	]
 }
