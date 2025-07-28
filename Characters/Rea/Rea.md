@@ -5,7 +5,7 @@ tags:
 ---
 #### **État civil :**
 
-- **Âge :** 22 ans
+- **Âge :** 23 ans
 - **Race :** Aestarii
 - **Lignée :** Briseur de Serments / Bête Ignifère (inspirée des Rakshasa)
 
