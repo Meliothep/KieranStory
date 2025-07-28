@@ -43,7 +43,7 @@ Kieran haussa un sourcil, enfin. Tourna légèrement la tête, juste assez pour 
 > "Super. Encore un taré du coin."
 
 > **Milo** (après un silence, comme s'il pesait ses mots) : 
-> "Tu es... humain. Mais pas tout à fait. Comme si quelque chose... résistait à l'effacement."
+> "Tu es... humain. Mais c'est comme si quelque chose... résistait."
 
 Cette fois, Kieran se retourna franchement. Pas de peur dans son regard, mais une méfiance aiguisée, contrôlée. Et peut-être... une pointe de curiosité.
 
@@ -64,7 +64,7 @@ Kieran détourna les yeux, reprenant sa contemplation du fleuve.
 
 Il marqua une pause, puis ajouta :
 
-> "Et puis, t'as l'air d'avoir autant envie d'être là que moi."
+> "Puis, t'as l'air d'avoir autant envie d'être là que moi."
 
 Milo baissa légèrement la tête. Quelque chose dans cette réponse sembla le toucher, comme une reconnaissance mutuelle.
 
@@ -75,7 +75,7 @@ Deux solitudes qui se reconnaissaient sans avoir besoin de s'expliquer.
 Après un long silence partagé, Kieran glissa, à mi-voix :
 
 > **Kieran** :
-> "Tu comptes rester planté là à respirer dans mon dos ou t'as un prénom ?"
+> "Tu comptes rester planté là à respirer ou t'as un prénom ?"
 
 > **Milo** (très bas) :
 > "Milo."
@@ -134,7 +134,7 @@ Milo le regarda, comme s'il pesait ces mots. Personne ne lui avait jamais dit qu
 Kieran haussa les épaules, mais son geste était moins désinvolte qu'il ne voulait le paraître.
 
 > **Kieran** : 
-> "Disons que j'ai pas envie qu'on me pose trop de questions sur ce que je suis."
+> "Disons que j'ai pas envie qu'on définisse ce que je suis."
 
 **Milo** (avec une pointe d'ironie amère)
 

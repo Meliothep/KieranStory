@@ -18,7 +18,7 @@ Au fond de la ruelle, Rea est encerclée par trois Aestarii. Son corps est tendu
 > "Alors, la Brise-Os, on fait moins la maligne maintenant, hein ? On va te calmer, toi et tes flammes !"
 
 > **Rea** (les yeux ambre flamboyants, un grondement sourd dans la gorge) : 
-> "Approchez, charognes ! Vous allez regretter d'être nés !"
+> "Approchez ! Vous allez regretter d'être nés !"
 
 Elle est à la limite de l'explosion, prête à déchaîner son Aether, mais les trois Aestarii sont trop proches, trop nombreux. La tension est à son comble.
 
@@ -54,7 +54,7 @@ Les trois Aestarii, malgré l'étrange aura de Kieran, se jettent sur lui. Ils s
 
 Milo observe la scène depuis l'entrée de la ruelle, ses yeux gris pâle fixés sur Kieran. Il ne manque aucun détail de cette danse. L'Aether de Kieran est contenu, utilisé avec une précision défensive, sans la débauche d'énergie que Rea aurait employée. C'est fascinant.
 
-Finalement, l'un des Aestarii, frustré par l'insaisissabilité de Kieran, rugit et commence à canaliser son propre Aether, une lueur menaçante apparaissant autour de ses poings. Alors que le coup, d'une violence importante, s'apprête à partir, Kieran réagit. Dans un éclair de mouvement, ses runes s'illuminent brièvement sous son hoodie, lui conférant une vitesse fulgurante. Il se retrouve collé à l'Aestarii en un clin d'œil, et lui assène un coup puissant et précis dans le diaphragme.
+Finalement, l'un des Aestarii, frustré par l'insaisissabilité de Kieran, rugit et commence à canaliser son propre Aether, une lueur menaçante apparaissant autour de ses poings. Alors que le coup, d'une violence importante, s'apprête à partir, Kieran réagit. Dans un éclair de mouvement, ses runes s'illuminent brièvement, lui conférant une vitesse fulgurante. Il se retrouve collé à l'Aestarii en un clin d'œil, et lui assène un coup puissant et précis dans le diaphragme.
 
 > **Kieran** (un murmure exaspéré au moment de l'impact) : 
 > "Tu saoules..."
