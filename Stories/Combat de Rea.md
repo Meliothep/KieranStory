@@ -72,7 +72,7 @@ Une silhouette discrète sort de l'ombre — **Milo**, toujours en retrait, touj
 > "T'aurais préféré que je transforme le sol en patinoire peut-être ?"
 
 Rea serre les poings, mais une part d'elle doit admettre qu'il n'a pas tort. Elle essuie du revers de la main une traînée de sang séché sur sa joue, son orgueil en prenant un coup.
-
+  
 > **Rea** (vers Kieran, plus posée, avec un respect genuine) :
 > "C'était... impressionnant. Deux coups et terminé. Dans ces conditions en plus."
 

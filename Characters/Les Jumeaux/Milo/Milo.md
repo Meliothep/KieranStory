@@ -6,7 +6,7 @@ tags:
 
 #### **État civil :**
 
-- **Âge :** 22
+- **Âge :** 20
 - **Race :** Aestarii
 - **Lignée :** Wendigo
 
