@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stories/Scene Bonus.md",
+                "file": "Characters/Les Jumeaux/Milo/Milo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scene Bonus"
+              "title": "Milo"
             }
           }
         ],
@@ -192,17 +192,17 @@
   },
   "active": "1435e88141681a8b",
   "lastOpenFiles": [
-    "Stories/Introduction Rea.md",
-    "Stories/Introduction Milo.md",
     "Stories/Combat de Rea.md",
+    "Characters/Les Jumeaux/Milo/Milo.md",
+    "Stories/Introduction Milo.md",
+    "Stories/Introduction Rea.md",
+    "Stories/Rencontre à la taverne.md",
+    "Stories/Scene Bonus.md",
+    "Characters/Rea/Rea.md",
     "Characters/Relations.canvas",
     "Characters/Tadhren/Stories/Passé de Tadhren.md",
     "Characters/Tadhren/Tadhren.md",
-    "Characters/Rea/Rea.md",
     "Characters/Famille Ashvale/Kieran/Kieran.md",
-    "Characters/Les Jumeaux/Milo/Milo.md",
-    "Stories/Scene Bonus.md",
-    "Stories/Rencontre à la taverne.md",
     "Univers/Codex/Races/Aestarii/Codex des Aestarii.md",
     "Univers/Places/Taverne.md",
     "Univers/Altherra (temporaire).md",
