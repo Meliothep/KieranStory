@@ -1,6 +1,6 @@
 ---
 tags:
-  - stories
+  - characterStories
 characters:
   - "[[Milo]]"
   - "[[Azael]]"
@@ -8,54 +8,62 @@ characters:
 
 ## Scène – Le Dernier Serment
 
-Le vent nocturne glissait sur les toits comme un murmure glacé, caressant les tôles rouillées et les conduits d’aération. La ville s’étendait en contrebas, saturée de lumière et de bruits de vie, mais ici-haut, tout n’était que silence. Deux silhouettes se découpaient dans ce décor industriel : deux frères, deux ombres juchées sur la rambarde métallique, éclairées par les halos jaunâtres des lampadaires. Ces lueurs tremblotantes accentuaient la pâleur de leurs visages et la tension glaciale qui régnait entre eux.
+Le vent glacial fouettait les toits de la ville, sifflant à travers les conduits d’aération et les câbles rouillés. Les lampadaires en contrebas diffusaient une lumière jaune tremblotante qui montait jusqu’au toit plat, projetant l’ombre de deux silhouettes immobiles. L’une, accoudée à une rambarde métallique, observait en silence les rues animées. L’autre, encore absente, se préparait à surgir.
 
 Milo s’appuyait contre la rambarde, le dos voûté, les doigts crispés sur le métal froid. Ses yeux, d’un éclat sombre et mélancolique, se perdaient dans les rues animées. Il observait les passants : couples se tenant par la main, groupes d’amis riant trop fort, silhouettes solitaires englouties par la foule. Une chaleur qu’il ne connaîtrait jamais vibrait dans ces scènes simples. À chaque rire perçu, il ressentait une pointe dans la poitrine, une curiosité douloureuse, un besoin qui ne serait jamais assouvi. Ses lèvres tremblaient d’un mot qu’il ne prononçait pas.
 
-Un frisson parcourut l’air derrière lui. Pas un bruit. Pas un pas. Juste une perturbation subtile, comme si l’espace avait cédé. Azael venait d’apparaître, surgissant des ténèbres comme une ombre qui se forge une chair. Parfait, impeccable, une insulte silencieuse à la laideur du toit crasseux. Ses yeux émeraude fixaient son frère avec une froideur distante.
+Une perturbation à peine perceptible fendit l’air derrière lui. Les ténèbres se mirent à couler comme de l’encre, et Azael se matérialisa. Il n’eut pas besoin de porte ni de bruit : il émergea simplement, parfait, immaculé, comme une insulte à la décrépitude du lieu. Son visage, d’une beauté glaciale, se tourna vers son frère.
 
+> **Azael** : "Encore en train de les admirer ?" Sa voix, un murmure caressant, vibrait dans le vent. "Tu nourris ton vide, Milo. Tu le sais. Alors pourquoi t’infliger ça ?"
 
-> **Azael :** "Encore en train de les admirer ?"  
-Sa voix, douce et tranchante à la fois, s’infiltra dans l’air comme un poison. "Tu nourris ton propre vide en faisant cela, Milo. Alors, pourquoi t’infliges-tu ça ?"
+Milo ne détourna pas le regard. Ses doigts se crispèrent sur la rambarde glacée.
 
-Milo ne se retourna pas. Sa mâchoire se serra. Ses yeux, encore rivés sur la foule, se voilèrent. Sa voix sortit à peine, rauque et étouffée.  
+> **Milo** : "Je vais partir."
 
-> **Milo :** "Je vais partir."
+Un ricanement sec franchit les lèvres d’Azael, aussitôt emporté par la brise nocturne.
 
-Un ricanement froid fendit le silence.  
+> **Azael** : "Où iras-tu ? Nous sommes les mêmes. Ta quête de lumière n’est qu’un masque. La vérité… notre vérité… tu ne peux pas t’y soustraire."
 
-> **Azael :** "Partir ? Où ? Tu es comme moi, Milo. Ta quête de lumière n’est qu’un masque pour cacher notre vérité."
+Milo inspira, son souffle tremblant. Ses épaules se raidissaient.
 
-Milo serra la rambarde si fort que ses jointures blanchirent. La colère et la peur s’entremêlaient, brûlant dans sa poitrine. Il finit par pivoter, ses yeux fixant enfin ceux de son frère.  
+> **Milo** : "Je vais trouver l’humanité qui me manque. Une voie où je n’aurai pas à les briser pour exister."
 
-> **Milo :** "Je vais chercher cette humanité qui me manque. Une voie où je n’aurai pas à les dévorer pour me sentir vivant."
+Azael s’approcha, son pas silencieux avalant la distance. La lumière des réverbères sculptait ses traits durs, illuminant la cruauté glacée de son sourire.
 
-Azael s’approcha, son pas glissant sans bruit. Les réverbères soulignaient la dureté de ses traits, son sourire mince, presque tendre mais cruel.  
+> **Azael** : "Tu confonds désir et nature. Tu es affamé, Milo. Affamé de leur chaleur. Affamé de leur joie. Affamé de ce que tu ne seras jamais. Tu crois les aimer, mais tu les consommes déjà. Tu les observes, tu les vides. Moi, au moins, je suis honnête. Mon art les élève. Les enflamme. Et à travers eux, je ressens. C’est un échange… parfait."
 
-> **Azael :** "Tu te mens. Tu les désires comme un prédateur désire sa proie. Tu finiras par les consumer. Tu es déjà un monstre, Milo. Moi, je suis honnête : je transforme leur peur en extase, leur peine en beauté. C’est un échange… parfait."
+La tension éclata en silence. Azael soupira, ses yeux émeraude s’illuminant d’un éclat hypnotique. Sa main se leva — et le monde se déchira.
 
-Milo serra les dents. Ses yeux brillèrent d’une rage fragile, ses lèvres tremblaient sous la douleur d’entendre cette vérité qu’il refusait.  
+Le toit disparut. Le bruit de la ville s’éteignit. Milo chancela.
 
-> **Milo :** "Je ne suis pas toi ! Je ne suis pas un parasite !"
+Autour de lui, la réalité se transforma : d’abord les rues s’éteignirent une à une, lampadaires mourant comme des étoiles froides. Puis les passants devinrent silhouettes brumeuses qui s’effaçaient en s’éloignant. Bientôt il marcha seul, pieds nus sur des forêts décharnées, puis dans des plaines désertiques balayées par un vent mort. À chaque pas, son reflet dans les flaques d’eau disparaissait, son ombre s’effaçait. Les villes qu’il voyait au loin n’étaient que des mirages qui reculaient à mesure qu’il approchait.
 
-Un soupir. La lueur émeraude d’Azael s’intensifia, envahissant l’espace. Sa main se tendit. Le toit, la ville, le bruit… tout se déchira. Milo chancela, pris dans un vertige. Le monde se recomposa en visions cauchemardesques.  
+Une vision de lui-même, cadavérique, marchant sans fin, le vide en lui s’élargissant à chaque instant. Une faim intenable. Un fantôme qui ne serait jamais invité à partager leur lumière.
 
-Il se vit, seul, errant dans des forêts d’ombres, des plaines désertes, toujours rejeté. Les villes se dissipaient comme des mirages chaque fois qu’il s’en approchait. Son corps, dans cette illusion, s’amenuisait, consumé par une solitude interminable. Le vide en lui devenait gouffre. Chaque pas le rapprochait d’un effacement total.  
+La voix d’Azael se fit omniprésente, résonnant dans son crâne, obsédante.
 
-La voix d’Azael, immense, résonna dans son esprit.  
+> **Azael** : "Tu es né affamé, Milo. Affamé d’eux. Affamé de ce qu'il te manque. Tu ne peux pas lutter. Tu ne peux pas fuir. Tu es un monstre. Accepte-le. Accepte ta faim. Et tu seras libre."
 
-> **Azael :** "Regarde-toi. Voilà ta vérité. Tu es né affamé d’eux. Tu ne seras jamais comme eux. Accepte-le, et tu seras libre."
+Les mots martelaient son esprit, chaque "affamé" cognant contre son cœur déjà au bord de l’explosion. 
 
-Milo tomba à genoux dans l’illusion, ses mains tremblantes s’accrochant au sol irréel. Son cœur cognait à s’en briser, ses yeux brouillés de larmes. Une lutte intérieure déchirait ses entrailles : désir brûlant de chaleur, peur d’être ce monstre que son frère voyait déjà en lui.  
+Un vertige violent le prit. Sa respiration se bloqua, son souffle haché. Le battement de son cœur résonnait dans sa poitrine comme un tambour furieux. Ses jambes cédèrent. Il s’effondra sur les genoux, les paumes écrasées contre le sol illusoire qui se dérobait comme du sable. Ses ongles raclèrent la surface rugueuse. Il s’y agrippait désespérément, comme pour ne pas être avalé par ce néant qui l’appelait. Sa gorge brûlait, chaque inspiration était une lame.
 
-D’un coup, l’illusion se brisa. Milo haletait, de retour sur le toit. Ses yeux étaient rouges, ses traits crispés par un mélange de rage et de désespoir. Il fit un pas vers l’obscurité.  
+Il tremblait. Son dos se voûta, ses yeux exorbités noyés de sueur.
 
-> **Milo :** "Adieu, Azael. Je trouverai ma voie. Même si je dois me perdre, ce sera à ma façon."
+> **Azael** (voix résonnant partout) : « Écoute ta nature, Milo.»
 
-Azael le suivit du regard, ses bras croisés, un sourire indéchiffrable aux lèvres.  
+Les mots s’enfonçaient dans son crâne, répétés, martelés, inéluctables.
 
-> **Azael :** "Va. Fuis ce monde, mais tu ne pourras jamais fuir ce que tu es. Le vide, tu le porteras toujours avec toi. Et moi aussi, je serai là. Le jour où tu l’accepteras."
+> **Azael** : « Tu es né pour ça. Né pour les consumer. »
 
-Milo ne se retourna pas. Son ombre s’étira, s’éloignant pas à pas, jusqu’à disparaître dans la nuit.  
+Milo plaqua ses mains sur ses oreilles, mais sa propre respiration, son cœur déchaîné, se mêlaient à la voix de son frère. Il suffoquait. Il était englouti.
 
-Azael resta seul, immobile. Son sourire oscillait entre triomphe et une infinie tristesse. Car il le savait : un jour, son frère reviendrait.
+Puis, soudain, l’illusion se rompit. La ville revint, le vent glacé le gifla. Milo, tremblant, haletant, sentit à nouveau le métal de la rambarde sous ses doigts. Ses genoux douloureux témoignaient de sa chute. Ses yeux fixèrent enfin son frère. Il y avait dans ce regard autant de rage que de désespoir.
+
+> **Milo** : « Adieu, Azael. Même si je dois me perdre, je le ferai à ma manière. »
+
+Il fit un pas. Puis un autre. Son ombre s’allongea, se confondant avec la nuit. Azael tendit une main, hésita… puis la laissa retomber. Ses lèvres esquissèrent un sourire amer, entre triomphe et mélancolie.
+
+> **Azael** (murmure) : "Tu peux fuir le monde… mais pas toi-même. Je serai là, Milo. Toujours."
+
+Milo disparut dans l’obscurité. Et Azael resta seul, bras croisés, les yeux rivés vers le vide laissé par son frère. Une ombre figée dans la nuit, à la fois victorieuse et tragiquement abandonnée.
