@@ -3,115 +3,84 @@ tags:
   - Character
   - Azael
 ---
-#### **État civil :**
 
-- **Âge :** 20 ans
-    
-- **Date de naissance :** 1/12 (jumeau de [[Milo]])
-    
-#### **Traits de personnalité principaux :**
+#### État Civil
 
-- **Charisme instinctif :**  
-    Azael dégage une présence magnétique, presque animale. Il attire les regards et capte l’attention sans effort, usant de son assurance naturelle pour manipuler ou dominer. Sur scène, il devient une incarnation vivante du désir et de la provocation, utilisant sa musique comme un exutoire sensuel.
-    
-- **Provocateur assumé :**  
-    Il prend plaisir à déstabiliser les autres, surtout ceux qui cherchent à se contenir comme Milo. Sa provoc se veut souvent une épreuve : il teste, il pousse, il cherche les limites, parfois jusqu'à les briser.
-    
-- **Lucidité crue :**  
-    Azael ne se voile pas la face. Il voit le monde tel qu’il est, avec une brutalité qu’il revendique. Il méprise les illusions et déteste la faiblesse, surtout celle qu’il perçoit en lui.
-    
-- **Identité revendiqué :**  
-	A l'oposé de son frere, Azael s'assume entièrement joue de sa nature au quotidiens pour s'arranger ou se divertir.
-    
+- **Âge :** 20 ans
+- **Race :** Aestarii
+- **Lignée :** Succube Volatile / Sirène (inspiré des Sirènes)
+- **Surnom :** Le Monarque Illusoire
 
 ---
 
-#### **Forces :**
+#### Traits de Personnalité Principaux
 
-1. **Assurance et contrôle :**  
-    Azael agit avec une sûreté implacable. Il sait ce qu’il veut, et n’hésite pas à imposer sa volonté.
-    
-2. **Manipulation et intuition sociale :**  
-    Il comprend très vite les failles des autres, et s’en sert avec une efficacité cruelle, que ce soit pour détruire ou pour tester. Il sait comment captiver un public, comment le faire frémir.
-    
-3. **Force brute assumée :**  
-    Contrairement à Milo qui cherche à contenir, Azael libère. Il est une tempête à visage humain, et il le revendique.
-    
-4. **Expression artistique comme exutoire :**  
-    Son art — le rap — devient une extension de lui-même. Il transforme ses pulsions en performances scéniques électrisantes, en séduisant sans honte ni retenue. Il se nourrit littéralement de l’énergie sexuelle de son public.
-    
+- **L'Armure de l'Artiste**
+    Azael est obsédé par l'art, la performance, l'esthétique. Son arrogance n'est pas une simple vanité, mais une armure forgée par sa lucidité. Il se perçoit comme un sculpteur de réalité et son public comme sa matière, sachant pertinemment que leur acceptation est conditionnelle. Ils adorent le "Monarque Illusoire", mais le rejetteraient s'ils voyaient la "Bête" qu'il est.
 
----
+- **Un Vide à Combler**
+    Azael était consumé par le vide qu'il ressentait de son frère, le vivant comme une agonie silencieuse. Sa quête d'extase était une lutte pour remplir ce vide, une tentative désespérée d'apaiser une sensation désagréable avec laquelle il refusait de composer.
 
-#### **Faiblesses :**
+- **Le Fatalisme de l'Aestarii**
+    Il est convaincu que leur nature Aestarii est la seule réalité qui vaille. La passion, l'art, la "chaleur"... ce sont des illusions éphémères. La seule chose qui dure, c'est la puissance de l'Elyon et leur connexion mutuelle. Il ne cherche pas à "sauver" Milo, mais à le ramener à la seule vérité qu'il connaît.
 
-1. **Auto-destruction masquée :**  
-    Sous ses provocations et son arrogance, Azael s’use lui-même. Il cherche la confrontation pour éprouver son existence.
-    
-2. **Refus de l’introspection :**  
-    Il fuit toute forme de réflexion profonde, de peur d’y trouver une douleur qu’il ne pourrait contenir.
-    
-3. **Solitude chronique :**  
-    Son attitude éloigne les autres. Même lorsqu’il cherche un lien, il le sabote par instinct.
-    
-4. **Obsession pour Milo :**  
-    La relation avec son jumeau est toxique, ambivalente. Il le déteste, l’admire, le défie, le désire parfois. Cette obsession le déséquilibre.
-    
+- **Affection Mal Exprimée**
+    Il est incapable de se connecter aux émotions de manière saine. Sa froideur apparente est une nécessité. Sa remarque sur "ta faim de merde" faite à Milo n'est pas de la méchanceté, mais une tentative désespérée de se reconnecter à son frère à travers leur lien de souffrance partagée. En choisissant une autre voie, Milo rejette aussi Azael.
 
 ---
 
-#### **Langage et comportements :**
+#### Forces
 
-- **Corps expressif :**
-    
-    - Marche avec nonchalance, comme un fauve en cage.
-        
-    - Sourires en coin, souvent moqueurs ou chargés de sous-entendus.
-        
-    - Regards appuyés, déstabilisants, presque prédateurs.
-        
-- **Discours :**
-    
-    - Ton méprisant ou charmeur, parfois les deux.
-        
-    - Langage tranchant, direct, sans filtre.
-        
-    - Utilise la vérité comme une arme.
-        
-    - Dans ses textes, mêle sensualité brute et violence poétique.
-        
+- **Maîtrise Parfaite de l'Elyon**
+    Azael a une capacité innée à manipuler les flux d'Elyon, au point qu'il peut créer de puissantes illusions sans catalyseur runique.
+
+- **Perception Émotionnelle Aiguë**
+    Il peut ressentir et exploiter les émotions les plus profondes des autres, transformant la peur en excitation, la tristesse en mélancolie, le désir en pure extase.
+
+- **Présence Charismatique**
+    Il attire naturellement l'attention et le respect, même de ceux qui le craignent. Sa prestance scénique et sa voix captivante en font un véritable monarque des cœurs.
+
+- **Lien de Vide**
+    Il est intimement lié à son frère, Milo. Ce lien était la seule chose qui lui permettait de réguler ses pulsions, maintenant que la nature de celui-ci est apaisée, il peut se libérer de la contrainte de compensation.
 
 ---
 
-### **Relations avec les autres :**
+#### Faiblesses
 
-#### **Avec [[Milo]] :**
+- **Dépendance Émotionnelle**
+    Il se nourrit des émotions des autres, sa lucidité l'empêche de ressentir pleinement ainsi il ressent par procuration lorsqu'il manipule les émotions des autres.
 
-Leur relation est une plaie ouverte. Azael en veut à Milo d’avoir rejeté leur nature commune. Il le provoque, tente de le faire chuter, mais cherche aussi à attirer son attention. Tout dans leur lien est excessif : rivalité, fascination, haine, besoin. Voir Milo refuser ce qu’Azael assume le renvoie à ses propres doutes.
+- **Orgueil Démesuré**
+    Son orgueil le rend vulnérable à la provocation. Il ne peut pas supporter d'être ignoré ou critiqué.
 
-#### **Avec Kieran :**
-
-Azael considère Kieran comme une menace et une anomalie. Il déteste l’influence que celui-ci exerce sur Milo, mais il est aussi intrigué. Il tente souvent de le déstabiliser, sans grand succès. Cela le rend d’autant plus obsédé par Kieran.
-
-#### **Avec les autres :**
-
-Azael est souvent perçu comme dangereux. Certains le suivent par crainte, d’autres sont fascinés. Lui ne cherche ni l’un ni l’autre : il agit, les autres s’adaptent ou brisent. Sur scène, il devient presque une divinité du désir — un incube en pleine performance.
+- **Connexion Altérée avec son Jumeau**
+    Le lien existe toujours, mais la nature de l'information qui passe a changé. Le vide de Milo s'est apaisé, et Azael ressent ce manque comme une libération mais également un rejet de la part de son jumeau qui a choisi une voie opposée à la sienne.
 
 ---
 
-#### **Symbolique et thèmes centraux :**
+#### Relations avec les Autres
 
-- **Dualité fratricide :**  
-    Azael et Milo incarnent deux réponses opposées à une même origine. L’un embrasse le chaos, l’autre le rejette.
-    
-- **Refus de rédemption :**  
-    Azael ne veut pas être sauvé. Il revendique sa nature sombre et déteste qu’on tente de le comprendre.
-    
-- **Masque de puissance :**  
-    Sa force apparente est un masque pour cacher un vide plus profond, une quête d’identité avortée.
-    
-- **Test des limites :**  
-    Azael cherche constamment jusqu’où il peut aller, chez les autres comme en lui. Il pousse, il casse, pour voir ce qui reste.
-    
-- **Corps comme vecteur de pouvoir :**  
-    À travers son art, Azael canalise son héritage d’incube. Il transforme son besoin en force scénique, séduisant, consommant et contrôlant sans jamais s’excuser.
+- **Avec son Public**
+    Il utilise ses spectateurs comme des marionnettes, leur dictant des émotions et les manipulant pour les laisser dans un état d'euphorie collective avant de les abandonner.
+
+- **Avec son Jumeau**
+    Leur lien était à la fois une force et une faiblesse. Azael dépendait du vide que Milo lui léguait, mais maintenant qu'il n'est plus, il est prêt à profiter de l'extase que lui procure la libération de cette contrainte. Il ne hait pas Milo, il a pitié de lui, le voyant gaspiller son potentiel et sa "vérité" avec des humains éphémères.
+
+- **Avec les Humains**
+    Son mépris pour eux n'est pas de la haine, mais de la pitié teintée de lucidité. Il voit leur hypocrisie et la fragilité de leurs sentiments, et ne comprend pas pourquoi son frère les admire pour cela. Il les voit comme des êtres inférieurs, faibles et prévisibles, dont les émotions sont un terrain de jeu qu'il peut modeler à sa guise.
+
+- **Avec les Aestarii**
+    Il est capable de se montrer arrogant envers les autres Aestarii, sauf s'ils peuvent lui apporter un quelconque bénéfice.
+
+---
+
+#### Symbolique et Thèmes Centraux
+
+- **L'Illusion et la Réalité**
+    Azael est l'incarnation de l'illusion. Il manipule la réalité pour qu'elle corresponde à son désir de puissance, et son plus grand pouvoir est de faire croire aux autres qu'il est ce qu'il prétend être.
+
+- **La Faim Symbolique**
+    Son besoin de se nourrir des émotions des autres est une métaphore de son lien avec son frère jumeau Milo et de son nihilisme. Sa quête d'extase est la tentative désespérée de combler cette absence.
+
+- **La Dualité de l'Art**
+    Sa musique est à la fois une force créatrice et une arme de destruction. Il utilise son art pour manipuler, mais c'est aussi son seul moyen d'expression, sa seule vérité.
