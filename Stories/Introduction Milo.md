@@ -151,6 +151,6 @@ Kieran tourna la tête vers lui, surpris par la justesse de cette remarque. Il y
 >**Kieran** (avec un sourire fatigué) :
 > "Venant de moi, c'est plutôt un compliment."
 
-Ils restèrent là un moment, sans parler. Le feu, discret témoin de cette étrange accalmie, les enveloppait dans son halo. Deux ombres, un peu menos seules, sous les étoiles.
+Ils restèrent là un moment, sans parler. Le feu, discret témoin de cette étrange accalmie, les enveloppait dans son halo. Deux ombres, un peu moins seules, sous les étoiles.
 
 Deux êtres qui se reconnaissaient dans leur différence, sans avoir besoin de tout expliquer.

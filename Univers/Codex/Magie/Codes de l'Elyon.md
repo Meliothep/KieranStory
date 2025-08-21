@@ -3,10 +3,11 @@ tags:
   - Magie
   - Codex
 ---
+## 1. La Nature des Runes Sauvages
 
-## 1. Qu'est-ce que les Runes ?
+Au-delà des runes gravées par la main des êtres conscients, il existe une forme plus ancienne et primordiale de ces symboles : les **Runes Sauvages**. Elles ne sont pas le fruit d'un artisanat ou d'une intention, mais des manifestations spontanées de l'**Elyon pur**, le langage inné de l'énergie fondamentale du monde.
 
-Les Runes sont des symboles énigmatiques, bien plus qu'une simple écriture. Elles sont des **canaux de magie pure**, des clefs capables d'ordonner et de manifester les énergies brutes du monde. Chaque rune, qu'elle soit gravée dans la pierre, le métal, ou la chair, représente un concept, une loi fondamentale de l'univers, permettant à l'utilisateur de puiser et de modeler la magie qui l'entoure. Elles sont la langue silencieuse et puissante de la réalité elle-même.
+Ces runes ne sont pas statiques. Elles se comportent comme des expressions vivantes de l'Elyon, apparaissant et se transformant constamment. Elles sont l'écriture du monde lui-même, la "syntaxe" invisible par laquelle l'Elyon s'organise et interagit avec la réalité.
 
 ## 2. Origine et Localisation : Les Cœurs Pulsants du Monde
 

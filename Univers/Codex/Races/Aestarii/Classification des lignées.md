@@ -17,7 +17,7 @@ tags:
         
     - **Voix et Mouvements :** Leur voix est naturellement mélodieuse et modulable, capable de charmer ou de perturber. Leurs mouvements sont fluides, presque irréels, attirant le regard et anticipant les désirs des autres.
         
-    - **Capacités Latentes :** Maîtrise instinctive de la persuasion et de la manipulation émotionnelle via l'Aether. Ils peuvent amplifier les désirs latents chez autrui, ou créer des illusions sensorielles subtiles pour influencer.
+    - **Capacités Latentes :** Maîtrise instinctive de la persuasion et de la manipulation émotionnelle via l'Elyon. Ils peuvent amplifier les désirs latents chez autrui, ou créer des illusions sensorielles subtiles pour influencer.
         
     - **Faiblesse :** Peuvent être consumés par leur propre capacité à provoquer le désir, cherchant constamment à se nourrir de l'attention ou de l'adoration des autres, au risque de se vider émotionnellement.
         
@@ -36,7 +36,7 @@ tags:
         
     - **Yeux :** Un regard fiévreux, affamé, qui observe et compare, ou un regard fuyant, comme s'il craignait de révéler son manque.
         
-    - **Capacités Latentes :** Capacité à "absorber" ou à "cristalliser" les émotions ou les énergies de leur environnement via l'Aether pour les contenir en eux. Ils peuvent développer une grande résistance à la perte ou au changement.
+    - **Capacités Latentes :** Capacité à "absorber" ou à "cristalliser" les émotions ou les énergies de leur environnement via l'Elyon pour les contenir en eux. Ils peuvent développer une grande résistance à la perte ou au changement.
         
     - **Faiblesse :** Leur peur de perdre ou leur désir insatiable peut les rendre isolés, incapables de partager ou de se contenter. Ils luttent constamment contre une faim intérieure pour ce qu'ils n'ont pas.
         
@@ -55,7 +55,7 @@ tags:
         
     - **Yeux :** Yeux rouges ou orange vif, brillants d'une rage intérieure, ou des pupilles dilatées qui ne semblent plus voir la réalité.
         
-    - **Capacités Latentes :** Augmentation rapide de la force physique, de l'endurance et de la résistance à la douleur via l'Aether. Ils peuvent générer des ondes de choc ou des manifestations d'énergie brute lors de pics de rage.
+    - **Capacités Latentes :** Augmentation rapide de la force physique, de l'endurance et de la résistance à la douleur via l'Elyon. Ils peuvent générer des ondes de choc ou des manifestations d'énergie brute lors de pics de rage.
         
     - **Faiblesse :** Difficulté à contrôler leurs accès de fureur, pouvant les rendre imprévisibles et dangereux pour eux-mêmes et pour les autres. La rage peut les consumer et les épuiser.
         
@@ -72,7 +72,7 @@ tags:
         
     - **Yeux :** Un regard perçant, qui analyse et juge, ou qui semble voir au-delà des apparences, reflétant une intelligence supérieure et un certain ennui.
         
-    - **Capacités Latentes :** Pouvoirs liés à l'illusion, à la suggestion mentale, ou à la capacité de "paralyser" les autres par leur présence ou leur parole via l'Aether, imposant le respect ou la soumission.
+    - **Capacités Latentes :** Pouvoirs liés à l'illusion, à la suggestion mentale, ou à la capacité de "paralyser" les autres par leur présence ou leur parole via l'Elyon, imposant le respect ou la soumission.
         
     - **Faiblesse :** Leur arrogance peut les rendre aveugles à leurs propres vulnérabilités et aux dangers réels. Ils peuvent être facilement manipulés par la flatterie ou par quiconque semble les surpasser.
         
@@ -89,7 +89,7 @@ tags:
         
     - **Yeux :** Très sombres, insondables, ou clairs et fixes, vides de passion, mais avec une profondeur qui absorbe l'attention et l'énergie.
         
-    - **Capacités Latentes :** Capacité à provoquer une fatigue intense, une perte de motivation, une désorientation ou un profond sentiment de vide chez les autres via l'Aether. Peuvent drainer l'énergie vitale au contact ou à distance, laissant les victimes apathiques et léthargiques.
+    - **Capacités Latentes :** Capacité à provoquer une fatigue intense, une perte de motivation, une désorientation ou un profond sentiment de vide chez les autres via l'Elyon. Peuvent drainer l'énergie vitale au contact ou à distance, laissant les victimes apathiques et léthargiques.
         
     - **Faiblesse :** Leur propre pulsion les rend apathiques et difficiles à motiver. Ils peuvent se laisser consumer par leur propre vide, devenant de simples coquilles.
         
@@ -106,7 +106,7 @@ tags:
         
     - **Yeux :** Des yeux qui s'ouvrent grand et fixement lors de l'observation, montrant une pupille étrangement dilatée ou un éclat fiévreux d'appétit insatiable. Ils peuvent sembler un peu trop grands pour le visage maigre.
         
-    - **Capacités Latentes :** Capacité à "ingérer" non seulement des objets physiques, mais aussi des informations, des émotions, des souvenirs ou même des concepts via l'Aether, les transformant et les utilisant à leur propre fin.
+    - **Capacités Latentes :** Capacité à "ingérer" non seulement des objets physiques, mais aussi des informations, des émotions, des souvenirs ou même des concepts via l'Elyon, les transformant et les utilisant à leur propre fin.
         
     - **Faiblesse :** Une faim insatiable qui ne peut jamais être réellement satisfaite, les poussant à une consommation compulsive et potentiellement autodestructrice.
 
@@ -124,4 +124,4 @@ tags:
         
     - **Capacités Latentes :** Capacité à drainer l'énergie, la chaleur ou la vitalité des êtres vivants ou de l'environnement pour se maintenir. Ils peuvent développer une rapidité et une furtivité surprenantes, ou une résistance au froid et à la faim physique.
         
-    - **Faiblesse :** Une faim qui ne peut jamais être apaisée, les poussant à une quête constante et destructrice de "nourriture" (qu'elle soit physique, émotionnelle ou Aetherique). Leur nature les isole, car leur présence tend à vider leur entourage.
+    - **Faiblesse :** Une faim qui ne peut jamais être apaisée, les poussant à une quête constante et destructrice de "nourriture" (qu'elle soit physique, émotionnelle ou Elyonique). Leur nature les isole, car leur présence tend à vider leur entourage.

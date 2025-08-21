@@ -20,9 +20,9 @@ Au fond de la ruelle, Rea est encerclée par trois Aestarii. Son corps est tendu
 > **Rea** (les yeux ambre flamboyants, un grondement sourd dans la gorge) : 
 > "Approchez ! Vous allez regretter d'être nés !"
 
-Elle est à la limite de l'explosion, prête à déchaîner son Aether, mais les trois Aestarii sont trop proches, trop nombreux. La tension est à son comble.
+Elle est à la limite de l'explosion, prête à déchaîner son Elyon, mais les trois Aestarii sont trop proches, trop nombreux. La tension est à son comble.
 
-Une ombre silencieuse se découpe à l'entrée de la ruelle, observant la scène. **Milo**. Son manteau sombre le dissimule presque entièrement. Ses yeux gris pâle sont fixés sur Rea, une lueur d'intérêt dans son regard habituellement neutre. Il observe la scène avec une attention particulière pour les manifestations d'Aether.
+Une ombre silencieuse se découpe à l'entrée de la ruelle, observant la scène. **Milo**. Son manteau sombre le dissimule presque entièrement. Ses yeux gris pâle sont fixés sur Rea, une lueur d'intérêt dans son regard habituellement neutre. Il observe la scène avec une attention particulière pour les manifestations d'Elyon.
 
 Kieran s'avance, son pas résonnant doucement sur les pavés. Il ne crie pas, ne menace pas. Son ton est juste... agacé.
 
@@ -52,9 +52,9 @@ Un silence tombe sur la ruelle, plus lourd que l'obscurité. Les trois Aestarii 
 
 Les trois Aestarii, malgré l'étrange aura de Kieran, se jettent sur lui. Ils sont habitués à la violence et ne reculent pas devant un défi, même inattendu. Kieran ne réagit pas avec ses runes pour l'attaque. Ses mains restent dans ses poches, son corps se déplace avec une fluidité déconcertante. Il esquive les coups avec une précision calculée, utilisant des techniques de projection et des clés de bras pour dérouter ses adversaires, les faisant trébucher ou manquer leur cible. Chaque fois qu'un coup le touche, il ne riposte pas directement, mais amortit le choc avec un geste contrôlé, absorbant l'impact sans que ses runes ne s'illuminent. C'est une danse, pas un combat, où Kieran utilise la force de ses adversaires contre eux-mêmes, les épuisant sans effort apparent.
 
-Milo observe la scène depuis l'entrée de la ruelle, ses yeux gris pâle fixés sur Kieran. Il ne manque aucun détail de cette danse. L'Aether de Kieran est contenu, utilisé avec une précision défensive, sans la débauche d'énergie que Rea aurait employée. C'est fascinant.
+Milo observe la scène depuis l'entrée de la ruelle, ses yeux gris pâle fixés sur Kieran. Il ne manque aucun détail de cette danse. L'Elyon de Kieran est contenu, utilisé avec une précision défensive, sans la débauche d'énergie que Rea aurait employée. C'est fascinant.
 
-Finalement, l'un des Aestarii, frustré par l'insaisissabilité de Kieran, rugit et commence à canaliser son propre Aether, une lueur menaçante apparaissant autour de ses poings. Alors que le coup, d'une violence importante, s'apprête à partir, Kieran réagit. Dans un éclair de mouvement, ses runes s'illuminent brièvement, lui conférant une vitesse fulgurante. Il se retrouve collé à l'Aestarii en un clin d'œil, et lui assène un coup puissant et précis dans le diaphragme.
+Finalement, l'un des Aestarii, frustré par l'insaisissabilité de Kieran, rugit et commence à canaliser son propre Elyon, une lueur menaçante apparaissant autour de ses poings. Alors que le coup, d'une violence importante, s'apprête à partir, Kieran réagit. Dans un éclair de mouvement, ses runes s'illuminent brièvement, lui conférant une vitesse fulgurante. Il se retrouve collé à l'Aestarii en un clin d'œil, et lui assène un coup puissant et précis dans le diaphragme.
 
 > **Kieran** (un murmure exaspéré au moment de l'impact) : 
 > "Tu saoules..."
@@ -172,10 +172,10 @@ Kieran hausse les épaules, son regard balayant la taverne.
 Kieran la regarde droit dans les yeux, sans détourner le regard.
 
 > **Kieran** : 
-> "Ça… c'est mes affaires. Mais si tu veux savoir, je cherche juste des informations. Sur l'Aether, sur les runes. Je recueille le savoir dispersé par-ci par-là sur le continent, j'ai des questions et je cherche des réponses. C'est tout."
+> "Ça… c'est mes affaires. Mais si tu veux savoir, je cherche juste des informations. Sur l'Elyon, sur les runes. Je recueille le savoir dispersé par-ci par-là sur le continent, j'ai des questions et je cherche des réponses. C'est tout."
 
 > **Rea** (se penchant légèrement, intriguée) :
-> "Des questions sur l'Aether ? Quel genre de questions ?"
+> "Des questions sur l'Elyon ? Quel genre de questions ?"
 
 > **Kieran** (évasif) :
 > "Le genre qui concerne que moi."

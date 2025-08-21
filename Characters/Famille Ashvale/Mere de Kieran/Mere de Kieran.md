@@ -20,16 +20,16 @@ tags:
 
 #### **Transformation : Le Spectre de Compassion**
 
-- **Cause :** Directement affectée par un dérèglement naturel et soudain de l'Aether, qui a réagi à ses émotions intenses.
+- **Cause :** Directement affectée par un dérèglement naturel et soudain de l'Elyon, qui a réagi à ses émotions intenses.
     
-- **Nature de la Transformation :** Une manifestation tragique de l'Aether qui a amplifié son amour maternel et sa peine au-delà de toute forme humaine reconnaissable.
+- **Nature de la Transformation :** Une manifestation tragique de l'Elyon qui a amplifié son amour maternel et sa peine au-delà de toute forme humaine reconnaissable.
     
 
 #### **Traits de personnalité (Post-transformation) :**
 
 - **Amour et Compassion Pures :** Malgré son apparence monstrueuse, elle reste emplie d'un amour et d'une compassion intenses, cherchant à offrir de l'affection.
     
-- **Mélancolique :** Ses larmes d'Aether pur et ses gestes désespérés témoignent d'une profonde tristesse face à sa condition.
+- **Mélancolique :** Ses larmes d'Elyon pur et ses gestes désespérés témoignent d'une profonde tristesse face à sa condition.
     
 - **Involontairement Destructrice :** Sa nature altérée fait qu'elle consume et tue lentement les créatures qui s'approchent d'elle et qu'elle tente d'aimer, sans le vouloir.
     
@@ -40,7 +40,7 @@ tags:
     
 - **Gestes :** Lents et désespérés, elle écarte les bras comme pour étreindre.
     
-- **Particularités :** Des larmes d'Aether pur coulent de ses yeux.
+- **Particularités :** Des larmes d'Elyon pur coulent de ses yeux.
     
 
 #### **Localisation actuelle :**

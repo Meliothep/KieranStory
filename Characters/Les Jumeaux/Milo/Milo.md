@@ -39,8 +39,8 @@ tags:
 3. **Perspicacité émotionnelle :**  
     Il saisit rapidement les non-dits, les tensions, les failles émotionnelles. Il ne les utilise pas forcément, mais les observe, les digère, les comprend.
 
-4. **Résistance à l’Aether :**  
-    Son origine Aestarii le rend naturellement résistant à certaines formes d’exposition ou d’instabilité aetherique.
+4. **Résistance à l’Elyon :**  
+    Son origine Aestarii le rend naturellement résistant à certaines formes d’exposition ou d’instabilité Elyonique.
 
 ---
 
@@ -81,7 +81,7 @@ tags:
 
 #### **Avec Kieran :**
 
-Au départ, Milo suivait Kieran **comme on suit une anomalie**. Il le voyait comme une énigme vivante : un humain porteur de runes, marqué dans sa chair par une volonté de résister à l’Aether plutôt que de s’y fondre. Kieran représentait un idéal tragique, une réponse que Milo ne pouvait formuler lui-même. Il ne le considérait pas comme un ami, mais comme **un objet de fascination — une preuve vivante que l’humanité peut graver son refus au fer rouge.**
+Au départ, Milo suivait Kieran **comme on suit une anomalie**. Il le voyait comme une énigme vivante : un humain porteur de runes, marqué dans sa chair par une volonté de résister à l’Elyon plutôt que de s’y fondre. Kieran représentait un idéal tragique, une réponse que Milo ne pouvait formuler lui-même. Il ne le considérait pas comme un ami, mais comme **un objet de fascination — une preuve vivante que l’humanité peut graver son refus au fer rouge.**
 
 Mais la **spontanéité de Kieran**, son humanité brutale, sa chaleur non feinte, **ont lentement fissuré la distance glacée de Milo**. Contre toute attente, il s’est retrouvé **touché, compris, et même contaminé** par cette lumière fragile qu’il pensait hors d’atteinte.
 

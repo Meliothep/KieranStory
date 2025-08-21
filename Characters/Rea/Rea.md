@@ -45,8 +45,8 @@ tags:
     Son orgueil l'empêche parfois de reconnaître ses erreurs ou de demander de l'aide quand elle en a besoin.
 3. **Manque de subtilité :**  
     Elle préfère l'approche directe à la finesse, ce qui peut créer des tensions dans des situations délicates nécessitant de la diplomatie.
-4. **Instabilité émotionnelle liée à l'Aether :**  
-    Plus elle s'énerve, plus son lien avec l'Aether s'intensifie, créant un risque d'explosion ou de perte de contrôle.
+4. **Instabilité émotionnelle liée à l'Elyon :**  
+    Plus elle s'énerve, plus son lien avec l'Elyon s'intensifie, créant un risque d'explosion ou de perte de contrôle.
 
 ---
 

@@ -10,14 +10,14 @@ characters:
 
 Les ruines humides d'un ancien relais marchand abandonné. La pluie vient tout juste de cesser, laissant derrière elle une brume légère et une odeur de pierre mouillée. Entre les colonnes effondrées, le sol est jonché de débris et de mousse glissante. L'eau suinte encore des pierres, formant des flaques traîtresses sur le sol inégal.
 
-Une bête distordue par l'Aether, mi-féline mi-charnelle, rugit entre les ruines. Ses membres tordus claquent contre la pierre, son souffle est chargé de rage. **Rea**, haletante, couverte de sang, recule en titubant vers le bord d'une dalle particulièrement glissante. Ses bottes dérapent légèrement sur la mousse humide, mais elle se rattrape, les bras levés dans une posture défensive. Elle crache un juron, un éclair de frustration dans les yeux malgré sa posture bravache.
+Une bête distordue par l'Elyon, mi-féline mi-charnelle, rugit entre les ruines. Ses membres tordus claquent contre la pierre, son souffle est chargé de rage. **Rea**, haletante, couverte de sang, recule en titubant vers le bord d'une dalle particulièrement glissante. Ses bottes dérapent légèrement sur la mousse humide, mais elle se rattrape, les bras levés dans une posture défensive. Elle crache un juron, un éclair de frustration dans les yeux malgré sa posture bravache.
 
 > **Rea** :
 > "Allez, viens, charogne... J'vais te montrer c'que ça fait, un vrai brasier !"
 
 Elle était en train de gagner. Ses flammes avaient déjà carbonisé une partie du flanc de la créature, et elle sentait la victoire à portée de main. Mais ce putain de sol...
 
-La bête bondit, griffes tendues. Rea pivote pour esquiver, canalisant son Aether pour une attaque décisive. Ses yeux s'embrasent, la chaleur monte autour d'elle—
+La bête bondit, griffes tendues. Rea pivote pour esquiver, canalisant son Elyon pour une attaque décisive. Ses yeux s'embrasent, la chaleur monte autour d'elle—
 
 **Et son pied droit glisse.**
 
