@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Univers/Codex/Races/Aestarii/Codex des Aestarii.md",
+                "file": "Feedbacks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Codex des Aestarii"
+              "title": "Feedbacks"
             }
           }
         ],
@@ -193,6 +193,7 @@
   },
   "active": "1435e88141681a8b",
   "lastOpenFiles": [
+    "Univers/Codex/Races/Aestarii/Codex des Aestarii.md",
     "README.md",
     "Univers/Codex/Races/Aestarii/Classification des lignées.md",
     "Stories/Concert Azael.md",
@@ -208,7 +209,6 @@
     "Characters/Tadhren/Stories/Passé de Tadhren.md",
     "Characters/Tadhren/Tadhren.md",
     "Characters/Famille Ashvale/Kieran/Kieran.md",
-    "Univers/Codex/Races/Aestarii/Codex des Aestarii.md",
     "Univers/Places/Taverne.md",
     "Univers/Altherra (temporaire).md",
     "Characters/Rea",
