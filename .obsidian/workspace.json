@@ -21,14 +21,10 @@
             "id": "1435e88141681a8b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Feedbacks.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Feedbacks"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -193,13 +189,14 @@
   },
   "active": "1435e88141681a8b",
   "lastOpenFiles": [
+    "Stories/Introduction Rea.md",
+    "Feedbacks.md",
     "Univers/Codex/Races/Aestarii/Codex des Aestarii.md",
     "README.md",
     "Univers/Codex/Races/Aestarii/Classification des lignées.md",
     "Stories/Concert Azael.md",
     "Stories/Combat de Rea.md",
     "Stories/Introduction Milo.md",
-    "Stories/Introduction Rea.md",
     "Stories/Rencontre à la taverne.md",
     "Stories/Scene Bonus.md",
     "Characters/Rea/Rea.md",
@@ -219,7 +216,6 @@
     "Characters/Famille Ashvale/Stories/Enfance de Kieran.md",
     "Characters/Famille Ashvale/Kieran/Visuals/v1/top.png",
     "Characters/Famille Ashvale/Kieran/Visuals/v1/full.png",
-    "Feedbacks.md",
     "Univers/Codex/Magie/Codex de l'artisanat runique.md",
     "Univers/Codex/Magie/Codex des Runes.md",
     "Univers/Codex/Races/Aestarii/Classification par emotion (deprecated).md",
