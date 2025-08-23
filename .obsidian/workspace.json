@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Les Jumeaux/Milo/Milo.md",
+                "file": "Univers/Codex/Races/Aestarii/Codex des Aestarii.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Milo"
+              "title": "Codex des Aestarii"
             }
           }
         ],
@@ -181,6 +181,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -192,13 +193,17 @@
   },
   "active": "1435e88141681a8b",
   "lastOpenFiles": [
+    "README.md",
+    "Univers/Codex/Races/Aestarii/Classification des lignées.md",
+    "Stories/Concert Azael.md",
     "Stories/Combat de Rea.md",
-    "Characters/Les Jumeaux/Milo/Milo.md",
     "Stories/Introduction Milo.md",
     "Stories/Introduction Rea.md",
     "Stories/Rencontre à la taverne.md",
     "Stories/Scene Bonus.md",
     "Characters/Rea/Rea.md",
+    "Characters/Les Jumeaux/Milo/Milo.md",
+    "Characters/Les Jumeaux/Azael/Azael.md",
     "Characters/Relations.canvas",
     "Characters/Tadhren/Stories/Passé de Tadhren.md",
     "Characters/Tadhren/Tadhren.md",
@@ -206,7 +211,6 @@
     "Univers/Codex/Races/Aestarii/Codex des Aestarii.md",
     "Univers/Places/Taverne.md",
     "Univers/Altherra (temporaire).md",
-    "Characters/Les Jumeaux/Azael/Azael.md",
     "Characters/Rea",
     "Characters/Famille Ashvale/Stories/La Tragédie de la Mère de Kieran.md",
     "Characters/Famille Ashvale/Stories/La Gravure des Runes.md",
@@ -218,11 +222,9 @@
     "Feedbacks.md",
     "Univers/Codex/Magie/Codex de l'artisanat runique.md",
     "Univers/Codex/Magie/Codex des Runes.md",
-    "Univers/Codex/Races/Aestarii/Classification des lignées.md",
     "Univers/Codex/Races/Aestarii/Classification par emotion (deprecated).md",
     "Characters/Famille Ashvale",
     "Characters/Famille Ashvale/Mere de Kieran/Mere de Kieran.md",
-    "Characters/Famille Ashvale/Pere de Kieran/Père de Kieran.md",
     "Characters/Famille Ashvale/Mere de Kieran",
     "Univers/Codex",
     "Univers/Elements/Untitled",
