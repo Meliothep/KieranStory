@@ -15,7 +15,7 @@ Kieran fronça le nez, l’air irrité. Il finit par jeter un regard soupçonneu
 
 Réa mâchonnait nonchalamment un bâton sombre qui dépassait de ses lèvres. Elle haussa les épaules, imperturbable.
 
-> **Réa :** *tranquille* « Ça aide à réfléchir. »
+> **Réa :** *en machouillant* « Ça aide à réfléchir. »
 
 Elle cassa un morceau du bâton et le tendit aux deux garçons. Milo la fixa un instant, hésitant, avant de céder. Kieran, par défi, accepta aussi. Ils portèrent en même temps le fragment à leur bouche. Un silence s’installa. Puis, instantanément, leurs visages se crispèrent. Kieran cracha son morceau dans sa main et Milo le reposa discrètement sur la table.
 
