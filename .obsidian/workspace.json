@@ -1,70 +1,41 @@
 {
   "main": {
-    "id": "8e945d1ff997c89d",
+    "id": "4e14b1f5d6006a9b",
     "type": "split",
     "children": [
       {
-        "id": "e9e1c62a52919eb5",
+        "id": "3a3d441fad9d8760",
         "type": "tabs",
         "children": [
           {
-            "id": "6ab83fb272cb137c",
+            "id": "66bd466c9e6b73b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stories/Bonus/Algue au vinaigre.md",
+                "file": "Characters/Rea/Stories/Le Serment Creux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Algue au vinaigre"
-            }
-          },
-          {
-            "id": "d815dc06c25fdde8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Stories/Bonus/Baton Amer.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Baton Amer"
-            }
-          },
-          {
-            "id": "1435e88141681a8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Univers/Codex/Races/Aestarii/Classification des lignées.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Classification des lignées"
+              "title": "Le Serment Creux"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "acfb824dc739212e",
+    "id": "1bb74873de1149d6",
     "type": "split",
     "children": [
       {
-        "id": "8904a0647a160d38",
+        "id": "ea509f330496fc76",
         "type": "tabs",
         "children": [
           {
-            "id": "61ca9e7e2710537b",
+            "id": "fab1b9ea9961115e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,12 +48,12 @@
             }
           },
           {
-            "id": "b926eb14310f01c9",
+            "id": "8aad62eeeeb6de43",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "Raen",
+                "query": "<<<<<<<",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +65,7 @@
             }
           },
           {
-            "id": "e73a3604ac294301",
+            "id": "06bb2242c9d5d66f",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -107,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 231.5
   },
   "right": {
-    "id": "72dc370aa31c2bc3",
+    "id": "83345ff0f4d67c8f",
     "type": "split",
     "children": [
       {
-        "id": "340bd182f6d8cb3a",
+        "id": "4aa4aa614dc77d52",
         "type": "tabs",
         "children": [
           {
-            "id": "ee22f5d7e26aedc9",
+            "id": "67404e1295bd49c5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters/Relations.canvas",
+                "file": "Characters/Kieran/Kieran.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,55 +104,50 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Relations"
+              "title": "Backlinks for Kieran"
             }
           },
           {
-            "id": "cf795341645f5265",
+            "id": "278ce5ac6a7047c5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters/Relations.canvas",
+                "file": "Characters/Kieran/Kieran.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Relations"
+              "title": "Outgoing links from Kieran"
             }
           },
           {
-            "id": "d9bdfd8313c11f69",
+            "id": "cd6b4bee498235a9",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "d7556d6d10131958",
+            "id": "3ef72b065c577736",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters/Relations.canvas",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "Characters/Kieran/Kieran.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Relations"
+              "title": "Outline of Kieran"
             }
           },
           {
-            "id": "ea273f20e03f3630",
+            "id": "6060fd09dcab9b30",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -195,62 +161,68 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 263.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "graph:Open graph view": false
     }
   },
-  "active": "d815dc06c25fdde8",
+  "active": "66bd466c9e6b73b2",
   "lastOpenFiles": [
-    "Stories/Bonus/Scene Bonus 2.md",
-    "Stories/Bonus/Parapluie.md",
-    "Stories/Bonus/Baton Amer.md",
-    "Stories/Bonus/Algue au vinaigre.md",
-    "Stories/Bonus/Croquettes & Croque-Mort.md",
-    "Stories/Combat de Rea.md",
-    "Stories/Concert Azael.md",
-    "Stories/Rencontre à la taverne.md",
-    "Stories/Introduction Rea.md",
-    "Stories/Introduction Milo.md",
-    "Univers/Codex/Races/Aestarii/Classification des lignées.md",
-    "Univers/Codex/Races/Aestarii/Classification par emotion (deprecated).md",
-    "Univers/Codex/Races/Aestarii/Codex des Aestarii.md",
-    "Univers/Codex/Magie/Codex des Runes.md",
     "Univers/Codex/Magie/Codex de l'artisanat runique.md",
     "Univers/Codex/Magie/Codes de l'Elyon.md",
-    "Characters/Tadhren/Tadhren.md",
+    "Univers/Altherra (temporaire).md",
+    "Feedbacks.md",
+    "README.md",
+    "Untitled.base",
+    "conflict-files-obsidian-git.md",
+    "Characters/Rea/Stories/Le Serment Creux.md",
     "Characters/Rea/Rea.md",
     "Characters/Les Jumeaux/Stories/Dernier serment.md",
     "Characters/Les Jumeaux/Milo/Milo.md",
-    "Characters/Les Jumeaux/Azael/Azael.md",
-    "Characters/Famille Ashvale/Stories/La Gravure des Runes.md",
-    "Characters/Famille Ashvale/Stories/La Tragédie de la Mère de Kieran.md",
-    "Characters/Famille Ashvale/Stories/Enfance de Kieran.md",
-    "Characters/Famille Ashvale/Mere de Kieran/Mere de Kieran.md",
-    "Characters/Famille Ashvale/Pere de Kieran/Père de Kieran.md",
-    "Stories/Bonus",
-    "Characters/Les Jumeaux/Milo/Visuals/MiloV1.png",
-    "Characters/Les Jumeaux/Milo/Visuals",
+    "Characters/Rea/Stories",
+    "Stories/Bonus/Baton Amer.md",
+    "Characters/Tadhren/Stories/Passé de Tadhren.md",
+    "Characters/Famille Ashvale/Kieran/Kieran.md",
     "Characters/Relations.canvas",
-    "Characters/Rea",
-    "Untitled.canvas",
+    "Characters/Tadhren/Tadhren.md",
+    "Stories/Rencontre à la taverne.md",
+    "Stories/Combat de Rea.md",
+    "Stories/Bonus/Croquettes & Croque-Mort.md",
+    "Stories/Bonus/Scene Bonus 2.md",
+    "Stories/Bonus/Algue au vinaigre.md",
+    "Stories/Bonus/Parapluie.md",
+    "Stories/Bonus",
+    "Characters/Famille Ashvale/Kieran/Runes.md",
+    "Stories/Introduction Rea.md",
+    "Characters/Les Jumeaux/Milo/Visuals/MiloV1.png",
     "Characters/Famille Ashvale/Kieran/Visuals/v1/top.png",
     "Characters/Famille Ashvale/Kieran/Visuals/v1/full.png",
-    "Characters/Famille Ashvale",
-    "Characters/Famille Ashvale/Mere de Kieran",
-    "Univers/Codex",
-    "Univers/Elements/Untitled",
-    "Univers/Races/Aestarii/Untitled",
+    "Stories/Scene Bonus.md",
+    "Characters/Les Jumeaux/Milo/Visuals",
+    "Characters/Les Jumeaux/Milo/New folder",
+    "Stories/Introduction Milo.md",
+    "Stories/Concert Azael.md",
+    "Univers/Codex/Races/Aestarii/Classification par emotion (deprecated).md",
     "Univers/Codex/Races/Aestarii",
-    "Univers/Codex/Magie"
+    "Univers/Codex/Races",
+    "Univers/Codex/Magie",
+    "Univers/Codex",
+    "Characters/Rea",
+    "Characters/Kieran/Visuals/v1/top.png",
+    "Untitled.canvas",
+    "Characters/Kieran/Visuals/v1/full.png",
+    "node_modules/psl/browserstack-logo.svg",
+    "Characters/Kieran/Visuals/image-4.png",
+    "Characters/Kieran/Visuals/image-5.png",
+    "Untitled 1.canvas"
   ]
 }
